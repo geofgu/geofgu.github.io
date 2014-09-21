@@ -2,6 +2,7 @@
     display: none;
 }
 code {
+    font-size: small;
     color:#FFF;
     border-bottom:1px solid #111;
 }
