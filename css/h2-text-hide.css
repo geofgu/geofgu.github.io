@@ -1,0 +1,15 @@
+#table-of-contents {
+    display: none;
+}
+.outline-text-2 {
+    display: none;
+}
+.outline-2:hover .outline-text-2 {
+    display: block;
+}
+.creator {
+    display: none;
+}
+.validation {
+    display: none;
+}
