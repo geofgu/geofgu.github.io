@@ -1,0 +1,12 @@
+#+TITLE: English Learning Notes
+#+AUTHOR: Gu Feng
+
+[[file:nce2_1.html][NCE2 Unit2]]
++ [[file:nce2_1.html][NCE2 Unit2]]
++ [[file:nce2_1.html][NCE2 Unit2]]
+
+| 09.21      | [[file:nce2_1.html][NCE2 Unit2]] |
+| [[file:nce2_1.html][NCE2 Unit2]] |            |
+| [[file:nce2_1.html][NCE2 Unit2]] |            |
+| [[file:nce2_1.html][NCE2 Unit2]] |            |
+| [[file:nce2_1.html][NCE2 Unit2]] |            |
