@@ -2,9 +2,14 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/h2-text-hide.css" />
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-* It didn't cost much to repair the castle. =_____=.
-  Damage was confined to a small portion of it
-* Look at that model girl over there, =_____=.
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
+
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
+*** Look at that model girl over there, =_____=.
   she must has the perfect body proportion
 * If you all do not have a better solution, =_____=.
   I have a proposition

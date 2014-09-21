@@ -1,11 +1,12 @@
 #table-of-contents {
     display: none;
 }
-.outline-text-2 {
-    display: none;
+code {
+    color:#FFF;
+    border-bottom:1px solid #111;
 }
-.outline-2:hover .outline-text-2 {
-    display: block;
+code:hover {
+    color:#111;
 }
 .creator {
     display: none;
