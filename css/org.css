@@ -271,7 +271,7 @@ li {
     -moz-border-radius-topleft: 5px;
     text-align: right;
     /* ensure doesn't flow off the screen when expanded */
-    max-height: 50em;
+    max-height: 40em;
     overflow: auto; 
     z-index: 200;
 }
