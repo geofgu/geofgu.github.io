@@ -265,23 +265,22 @@ li {
 }
 
 #table-of-contents {
+	background: url(bookmark.png) no-repeat top right;
     font-size: 9pt;
     position: fixed;
     right: 0;
     top: 0;
-    background: white;
-    -webkit-box-shadow: 0 0 1em #777777;
-    -moz-box-shadow: 0 0 1em #777777;
-    -webkit-border-bottom-left-radius: 5px;
-    -moz-border-radius-bottomleft: 5px;
     text-align: right;
     /* ensure doesn't flow off the screen when expanded */
     max-height: 90%;
-    overflow: auto; 
+	min-width: 24px;
+	min-height: 26px;
+    overflow: auto;
     z-index: 200;
 }
 
 #table-of-contents h2 {
+	display: none;
     font-size: 9pt;
     /*max-width: 8em;*/
     font-weight: normal;
@@ -289,7 +288,7 @@ li {
 }
 
 #table-of-contents ul {
-    margin: 0; 
+    margin: 20px 0 0 0; 
     padding: 0;
 }
 
@@ -308,10 +307,18 @@ li {
     text-align: left;
 }
 
+#table-of-contents:hover {
+	background: white;
+    -webkit-box-shadow: 0 0 1em #777777;
+    -moz-box-shadow: 0 0 1em #777777;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+}
+
 #table-of-contents:hover #text-table-of-contents {
     display: block;
     padding: 0.5em;
-    margin-top: -1.5em; 
+    margin-top: -1.5em;
 }
 
 img.random {
@@ -333,7 +340,7 @@ img.random {
 {
   #table-of-contents {
     float: right;
-    border: 1px solid #CCC;
+    /*border: 1px solid #CCC;*/
     max-width: 70%;
     overflow: auto;
   }
