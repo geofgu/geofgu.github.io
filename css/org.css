@@ -11,15 +11,7 @@ body {
 }
 
 .title {
-    /*
-    position: fixed;
-    display: inline;
-    left: 0px;
-    top: 0px;
-    height: 54px;
-    width: 100%;*/
     margin-top: 0px;
-    background-color: #eee;
     padding: 0;
     z-index: 99;
 }
