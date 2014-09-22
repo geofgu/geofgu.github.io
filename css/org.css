@@ -307,6 +307,10 @@ li {
     -moz-border-radius-bottomleft: 5px;
 }
 
+#table-of-contents:hover h2 {
+	display: block;
+}
+
 #table-of-contents:hover #text-table-of-contents {
     display: block;
     padding: 0.5em;
