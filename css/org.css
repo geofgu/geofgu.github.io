@@ -260,7 +260,7 @@ li {
 	margin-bottom: 1em;
 }
 
-li:before {
+.org-ul li:before {
 	content: '\2666'; /* http://la.remifa.so/unicode/named-entities.html */
 	display: inline-block;
 	/*height: 1rem;*/
