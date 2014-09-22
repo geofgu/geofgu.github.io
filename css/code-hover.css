@@ -1,17 +1,8 @@
-#table-of-contents {
-    display: none;
-}
 code {
     font-size: small;
-    color:#FFF;
-    border-bottom:1px solid #111;
+    color: white;
+    border-bottom:1px solid black;
 }
 code:hover {
-    color:#111;
-}
-.creator {
-    display: none;
-}
-.validation {
-    display: none;
+    color: black;
 }

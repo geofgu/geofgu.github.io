@@ -1,5 +1,7 @@
+#+TITLE: English Learning Notes
 #+AUTHOR: Gu Feng
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hover.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 * It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
