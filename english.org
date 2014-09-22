@@ -1,4 +1,4 @@
-#+TITLE: English Notes
+#+TITLE: English
 #+AUTHOR: Gu Feng
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hover.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
@@ -60,7 +60,7 @@
 * LTT1 Lesson1-3
 + NAmE:vest BrE: =waistcoat= / NAmE:closet BrE: =cupboard= / NAmE:sink BrE: =washbasin= / NAmE:apartment BrE: =flat= / NAmE:rinse BrE: =swill= / At least =rinse= your mouth.
 + =So off they went=, headed to the next destination.
-+ He =came up to= me. / The name =came up= a lot in the discussion. / New year is =coming up=. / Call me if anything =comes up=. / The house =comes up= for sale. / New jobs will =come up= soon. / He always =comes up with= new ideas. / I don't think he can =come up with= any money.
++ He saw me at a distance and =came up to= me immediately. / The name =came up= a lot in the discussion. / New year is =coming up= soon. / Call me if anything =comes up=. / The house =comes up= for sale. / New jobs will =come up= soon. / He always =comes up with= new ideas. / I don't think he can =come up with= any money.
 + What happened to him? He is =looking upset=. / You are =looking good= in this dress. / Do I know him? He =looks familiar=.
 + The table is covered with =a piece cloth=. / I need to change my =clothes=. / What is your favorite =item of clothing=?
 + I spilled the water. BrE: =spilt= / Tonnes of oil =spilled from= the tank. / The words =spilled out in a rush=. / Some jobs are likely to have a negative =spillover into= family life. / The drug has unknown =side effect=. / This article has =negative impact= on readers.

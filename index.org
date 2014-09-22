@@ -1,4 +1,4 @@
-#+TITLE: Learning Notes
+#+TITLE: Feng's Notes
 #+AUTHOR: Gu Feng
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
