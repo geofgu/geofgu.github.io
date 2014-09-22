@@ -1,28 +1,82 @@
-#+TITLE: English Learning Notes
+#+TITLE: English Notes
 #+AUTHOR: Gu Feng
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hover.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-* It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
-* Look at that model girl over there, =she must has the perfect body proportion=.
-* If you all do not have a better solution, =I have a proposition=.
-* They have put out the forest fire, but they still need to find =how the fire began=.
-* Cigarette butts can also be called =cigarette ends=.
-* They have been trying to find out how the fire began. However, a fireman accidentally =discovered the cause=.
-* He noticed the remains of a snake =which was wound round the electric wires of a 16,000 volt power line=.
-* The strange phenomenon baffled all of us, but finally =he solve the mystery=.
-* A bird had =snatched up= the snake and =dropped it on to= electric wires.
-* In order to persuade him to change his mind, =I reasoned with him for hours=.
-* The smoke has come out, when =I smelled something burning=.
-* =On my going to= the kitchen, I found it full of smoke.
-* I was busy mixing butter and flour and my hands were =covered with stick pastr=.
-* At that time, they always laughed at me. =Nothing could have been more annoying=.
-* I went to open the door eagerly, but =I was dismayed when I found out it was not her=.
-* Some doors do not have =doorknob= on the outside.
-* I had no sooner got back to the kitchen than doorbell =rang loud enough to wake the dead=.
-* The postman wanted me to =sign for a registered letter=.
-* That event =prompted me to write= a letter to him.
-* I'm very pleased =to learn that= you a well.
-* In a letter, the first paragraph should be =Thank you for letter=.
+* Godzilla
++ The Godzilla is no longer =terrestrial=, it's =airborne=.
++ This is our =needle in the haystack=, but it is =imperative= that we find it.
++ Welcome, glad to =have you on board=.
++ =My condolences=, I'm really sorry for your loss. I sent him =a letter of condolences=.
++ =Parasitic spores=, one =dormant=, but the other =hatched=. =Catalyzed= by a mining company =unknowingly drilled into its tomb=.
++ =The hatchling burrowed straight for= the nearest source of radiation, =the power plant=, and =cocooned= there for 15 years, absorbing its =radioactive fuel= to =gestate=, to grow.
++ The creature have electrical effect on everything =within a close proximity=.
++ Anything =at all= would help us.
++ Where is it =headed= now? / I'm =headed= to Hawaii.
++ For the =comfort= of others. / For others' =sake=.
++ We've just received =an intel report= from the intelligence.
++ The ship appears at 50 =nautical miles= northwest.
++ We are =picking up a distress= signal.
++ They =are headed= to the beacon.
++ The =chameleon= survives by =blending in with= its background. / =Chameleons camouflage= themselves =in a variety of different ways. / Chameleon's =disguise(camouflage)= is like magic.
++ Look, I've got a =ping=. Never mind, it's probably just a =glitch=. I got a =reading= again, it's =right up ahead=.
++ This is a direct command from the =General quarters=.
++ The plane is landing, I'm going up to the =flight deck=.
++ We are =circling= the target. Stand by, got a =visual=.
++ AIDS is a universal bogey.
++ Run! =Tsunami=!
++ There was another spore, =intact=. But we =vivisected= it and it was =disposed of=. / This is the safest =means of disposing of nuclear waste=.
++ They are =converging= here, we just wait for them.
++ Regular bomb can't kill them, we can =rig a nuclear warhead with a shield timer=.
++ The radiation =lures= MUTOs.
++ We =detonate= the bomb in desert, with minimal =fallout risk to= the city.
++ You can't be serious, they =feed on= radiation.
++ If you have any other ideas, =I'm all ears=.
++ My first =priority= is to =safeguard= our citizens.
++ The watch is =stopped=.
++ Everybody =disembarked=! / Soldiers, =dismiss=!
++ Locals are =being urged to please find shelter=, =stay indoors= and =stay off= the road.
++ After the explosion, there are =debris= everywhere.  / Many people close to the explosion were kill by the =shrapnel= of the bomb.
++ This bomb makes the old one look like a =firecracker=. Nothing can =withstand that blast=.
++ Many Americans think their legal system has =gone haywire=. =chaotic =disordered =out of order
++ This suit is obviously to fashionable for him, he is really an =old school=.
++ You can always make the old watch work. =Take a licking, keep on ticking=.
++ We must hurry, it has =outrun= us.
++ This is a direct order from the =tactical operations command=.
++ I =retrofitted= that device myself.
++ =With all due respect=, may I ask what's the second plan?
++ We tied the boat =to the pier=. / They went for a =stroll= along the =waterfront=. / The ferry attempted to =dock on= the island. / The =harbour= admits large =tankers and freighters=.
++ If the MUTOs have =spawned=, they will be building a nest.
++ When you find the =warhead=, how long can you =disarm= it?
++ They have all =been briefed=, we have no =extraction plan=.
++ Sir, I'll do =whatever it takes=. / We must drive out the enemy =at all costs=.
++ The monster is an =alpha predator=.
++ We haven't lost yet, we may still =have a chance=. / I thought I might =have a shot=.
++ The =arrogance= of man is thinking that nature is in our control and =not the other way around=.
++ We are still trying to open it, but it's not =budging=, it's =sealed shut=.
++ Find the =ignition= and start this boat.
+  
+* NCE2 Lesson53
++ It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
++ Look at that model girl over there, =she must has the perfect body proportion=.
++ If you all do not have a better solution, =I have a proposition=.
++ They have put out the forest fire, but they still need to find =how the fire began=.
++ Cigarette butts can also be called =cigarette ends=.
++ They have been trying to find out how the fire began. However, a fireman accidentally =discovered the cause=.
++ He noticed the remains of a snake =which was wound round the electric wires of a 16,000 volt power line=.
++ The strange phenomenon baffled all of us, but finally =he solve the mystery=.
++ A bird had =snatched up= the snake and =dropped it on to= electric wires.
++ In order to persuade him to change his mind, =I reasoned with him for hours=.
++ The smoke has come out, when =I smelled something burning=.
++ =On my going to= the kitchen, I found it full of smoke.
++ I was busy mixing butter and flour and my hands were =covered with stick pastr=.
++ At that time, they always laughed at me. =Nothing could have been more annoying=.
++ I went to open the door eagerly, but =I was dismayed when I found out it was not her=.
++ Some doors do not have =doorknob= on the outside.
++ I had no sooner got back to the kitchen than doorbell =rang loud enough to wake the dead=.
++ The postman wanted me to =sign for a registered letter=.
++ That event =prompted me to write= a letter to him.
++ I'm very pleased =to learn that= you a well.
++ In a letter, the first paragraph should be =Thank you for letter=.
 

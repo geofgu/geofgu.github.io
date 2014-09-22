@@ -254,8 +254,13 @@ dt {
     margin-bottom: 3px;
 }
 
+ul {
+    list-style:none;
+    padding-left:0;
+}
+
 li {
-    margin: 10px;
+    margin-bottom: 1em;
     text-align: justify;
 }
 
@@ -271,7 +276,7 @@ li {
     -moz-border-radius-topleft: 5px;
     text-align: right;
     /* ensure doesn't flow off the screen when expanded */
-    max-height: 40em;
+    max-height: 90%;
     overflow: auto; 
     z-index: 200;
 }
@@ -329,7 +334,7 @@ img.random {
   #table-of-contents {
     float: right;
     border: 1px solid #CCC;
-    max-width: 50%;
+    max-width: 70%;
     overflow: auto;
   }
 }
