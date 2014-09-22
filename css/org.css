@@ -268,7 +268,7 @@ li {
     font-size: 9pt;
     position: fixed;
     right: 0;
-    bottom: 0;
+    top: 0;
     background: white;
     -webkit-box-shadow: 0 0 1em #777777;
     -moz-box-shadow: 0 0 1em #777777;
