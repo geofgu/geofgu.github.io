@@ -247,13 +247,13 @@ dt {
 }
 
 ul {
-    list-style:none;
-    padding-left:0;
+    padding: 0;
+	list-style-position: inside;
 }
 
 li {
-    margin-bottom: 1em;
     text-align: justify;
+	margin-bottom: 1em;
 }
 
 #table-of-contents {

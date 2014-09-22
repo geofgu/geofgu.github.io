@@ -19,7 +19,7 @@
 + The ship appears at 50 =nautical miles= northwest.
 + We are =picking up a distress= signal.
 + They =are headed= to the beacon.
-+ The =chameleon= survives by =blending in with= its background. / =Chameleons camouflage= themselves =in a variety of different ways. / Chameleon's =disguise(camouflage)= is like magic.
++ The =chameleon= survives by =blending in with= its background. / =Chameleons camouflage= themselves =in a variety of= different ways. / Chameleon's =disguise(camouflage)= is like magic.
 + Look, I've got a =ping=. Never mind, it's probably just a =glitch=. I got a =reading= again, it's =right up ahead=.
 + This is a direct command from the =General quarters=.
 + The plane is landing, I'm going up to the =flight deck=.
@@ -39,14 +39,14 @@
 + Locals are =being urged to please find shelter=, =stay indoors= and =stay off= the road.
 + After the explosion, there are =debris= everywhere.  / Many people close to the explosion were kill by the =shrapnel= of the bomb.
 + This bomb makes the old one look like a =firecracker=. Nothing can =withstand that blast=.
-+ Many Americans think their legal system has =gone haywire=. =chaotic =disordered =out of order
++ Many Americans think their legal system has =gone haywire(chaotic, disordered, out of order)=.
 + This suit is obviously to fashionable for him, he is really an =old school=.
 + You can always make the old watch work. =Take a licking, keep on ticking=.
 + We must hurry, it has =outrun= us.
 + This is a direct order from the =tactical operations command=.
 + I =retrofitted= that device myself.
 + =With all due respect=, may I ask what's the second plan?
-+ We tied the boat =to the pier=. / They went for a =stroll= along the =waterfront=. / The ferry attempted to =dock on= the island. / The =harbour= admits large =tankers and freighters=.
++ We tied the boat =to the pier=. / They went for a =stroll= along the =waterfront=. / The ferry attempted to =dock on= the island. / The =harbor= admits large =tankers and freighters=.
 + If the MUTOs have =spawned=, they will be building a nest.
 + When you find the =warhead=, how long can you =disarm= it?
 + They have all =been briefed=, we have no =extraction plan=.
@@ -56,14 +56,135 @@
 + The =arrogance= of man is thinking that nature is in our control and =not the other way around=.
 + We are still trying to open it, but it's not =budging=, it's =sealed shut=.
 + Find the =ignition= and start this boat.
-  
+
+* LTT1 Lesson1-3
++ NAmE:vest BrE: =waistcoat= / NAmE:closet BrE: =cupboard= / NAmE:sink BrE: =washbasin= / NAmE:apartment BrE: =flat= / NAmE:rinse BrE: =swill= / At least =rinse= your mouth.
++ =So off they went=, headed to the next destination.
++ He =came up to= me. / The name =came up= a lot in the discussion. / New year is =coming up=. / Call me if anything =comes up=. / The house =comes up= for sale. / New jobs will =come up= soon. / He always =comes up with= new ideas. / I don't think he can =come up with= any money.
++ What happened to him? He is =looking upset=. / You are =looking good= in this dress. / Do I know him? He =looks familiar=.
++ The table is covered with =a piece cloth=. / I need to change my =clothes=. / What is your favorite =item of clothing=?
++ I spilled the water. BrE: =spilt= / Tonnes of oil =spilled from= the tank. / The words =spilled out in a rush=. / Some jobs are likely to have a negative =spillover into= family life. / The drug has unknown =side effect=. / This article has =negative impact= on readers.
++ My wife is =laundering clothes= in the =launderette (laundrette, NAmE:laundromat)= at the street corner. / It's illegal to =launder ill-gotten= money. / My clothes are all dirty, I'm going to =do my laundry=.
++ It's none of their business, they are just =outsiders from off the street=.
++ He wanted me to jump, I'd rather not.
++ I've got a headache, I need some =aspirins=.
++ I like =suspense= movies, especially =Hitchcock's=!
++ I have to go to work now, but I can't find my =overall=.
++ They should start saving their =pocket money=, I'll create a =savings account= for them. / During holiday, most students will =take part time jobs= to make some =spending money=.
+
+* NCE2 Unit1
++ His private life =came under media scrutiny=. / All citizens in the nation =are subject to= the law. / Governments must be =open to public scrutiny=.
++ I got =very angry= with her.
++ I =turned round(around)= and looked at them angrily, but they did not =pay any attention=.
++ I never =get up early on= Sundays. I sometimes =stay in bed= until lunchtime.
++ Just then, the telephone =rang=.
++ You can't give them everything they want, you =spoil= them!
++ I visited =museums= and =sat in= public gardens.
++ He =taught me a few words= of Italian.
++ I’ve never been =abroad= before.
++ =In a way(in some way, in one way)=, television is more =challenging= than theater.
++ The chair is =in the way=, move it!
++ I =ran into= them on the way home. / The bank =ran into= financial difficulties. / Our debts are running into millions of dollars.
++ He's the man who =goes through= his whole life =blending into the wallpaper=, =seemingly content= to work hard =day-in and day-out= and =leave the spotlight to others=.
++ He has sent =a great many requests for= spare parts. / Can you =spare= me a moment?
++ They went =on a short excursion= into the forest. / Seems she has gone on =an excursion= into non-related topics.
++ up to now =up till now
++ The beggar stood on his head and sang songs.
++ He calls at every house. / I’ll call for you tomorrow 8 pm. =pick you up
++ Knapsacks are big, backpacks medium and shoulder bags are usually small.
++ The robbers rushed out of the bank and took off in their car. / Take off your shoes! / The new magazine has soon taken off. / The plane accelerated down the runway for take-off. / The film is a take-off of Star Wars.
++ They usually knock off around five to drink beer. / I knocked the lamp off the table. / The shop assistant knocked 10% off the bill.
++ They knocked over a liquor store. / Try not to knock that vase over.
++ The blows knocked me out.
++ a bag of flour / a tube of toothpaste / flowerpots with plastic plants / two tall, shapely brass candlesticks
++ the customs house / the level of customs duty on imports / a customs officer / Arriving refugees were whisked through customs.
++ Two detectives were keeping guard at the door.
++ to their surprise
++ Just as they were chatting, the boss entered.
++ Everybody in the town enters for the competition each year. / take part in an important race / Everyone knows that.
++ neat path and wooden bridge over a pool
++ win a little prize
++ What does the phrase refer to?
++ a large crowd of people
++ the minute/hour/second hand
++ made of silver / made from sand and lime / This is one of those applications that PDAs were made for. / You two are just made for each other.
++ They come to me to whine about their trouble. / a whiny man / whiny voice / People get rude and whiny when they are exhausted.
++ “One good turn deserves another.”
++ He got a good salary years ago.
++ pay it back to you =pay you back =repay you
++ The captain will sail from Portsmouth to France tomorrow.
++ It’s up to you to make the final decision. / I don’t think he is up to the job. / The total number is up to 3 million. / I can take up to four people in my car. / up to this time =up to now / What have you been up to recently? / You think your idea is up to mine?
++ This is final call for boarding on flight MU 7766. / final boarding call
++ have difficult time
++ try to keep order
++ It’s always the same on these occasions. =on such occasion
++ by walk =by walking =on foot =by foot / by bus / by car / by train / by sea / by air
++ The Godzilla is no longer terrestrial, it is airborne!
++ I don’t take orders. / You are no king to me!
++ Single quotation marks are not apostrophe. / double quotation marks / The article starts with a quote.
++ wave to me
++ ask me for a lift
++ Apart from a few words, I don’t know any French at all. =Except for
++ You needn’t salute me. / He raises his arms in a triumphant salute. / He nodded a salutation.
++ A financial aid is available.
++ Soldiers tramping through the streets. / the tramp of marching feet / tramp =vagrant =beggar / They start off on a tramp from Roxbury to New York. =trek / She is nothing more than a tramp that sleeps around. =promiscuous woman
++ Remember me to your parents.
++ The President's envoy set off on another diplomatic trip. / set off for a remote place =set out to / Their escape set off the alarm. =sound the alarm / Someone set off a fire extinguisher. / Who set off the bomb? / The arrival of the charity van set off a minor riot as villagers scrambled for a share of the aid. / The joke set him off laughing. / Blue suits you, sets off the color of your hair.
++ He set me up! / You stood me up!
++ Locals looked on in surprise as hitch-hikers, cyclists, bikers, cars, vans and minibuses filled up the village square. =look at sth.
++ pop and folk singers and musicians
++ She seemed irritable, and annoyed with my every move. =always loses temper =easily made angry / Exams make me nervous. =restless or uneasy
++ I haven’t been to the cinema lately, I can’t afford the time. =recently
++ This note is only a reminder.
++ Just let it go. / Let it go of me!
++ Traffic police are sometimes very polite.
++ In spite of this…
++ He never wears ready-made suites.
++ I can’t pay the bill, I haven’t got my bag.
++ Give in you exercise book. / He will soon give in. =give up =surrender / give up smoking
++ exclamation mark
++ The play may begin at any moment now.
++ “We’ve sold out,” the girl said. “What a pity!” Susan exclaimed.
++ I might as well have them.
++ bed-ridden grandma / disease-ridden environment
++ a painful and lingering death
++ She wanted to play the martyr to the society. / She was martyred for her faith.
++ This does not worry me anymore.
++ I’m even less lucky.
++ Aeroplanes are slowly driving me mad.
++ Last year, however, it came into use.
++ People have been driven away from their homes, but I’m determined to stay. / He drives his car very badly. / Our army drove the enemy back.
++ Both girls write to each other regularly now.
++ He congratulated me on having got engaged.
++ Did anything emerge from your discussion?
++ I dreamt of you last night.
++ You can never rely on him to be punctual. =in time / He is not trustworthy. / I suppose I can count on you for help in(with) this matter. / You can depend on me.
++ I insist on you telling me the truth.
++ They can only cure him of his illness if they operate on him.
++ I haven't accused him of anything, but I suspect him of having taking it.
++ We expect a great deal of(with) you.
++ My hands smell of soap.
++ We have embarked on a new scheme.
++ I believe in taking my time.
++ She prides herself on her clean house.
++ We must economize on fuel. / Cycling is more economical than driving. / She lives a frugal lift. / The diet is frugal. / stuff cutback / cutback in public spending / Customers are drawing(pulling) in their horns at a time of high interest rates. / Cuts in defense spending forced the aerospace industry to retrench. / He needs to scrimp and save while looking for a job. =tighten his belt / Scrimping on safety measures can be a false economy. / Many families must skimp on their food and other necessities just to meet the monthly rent. / He doesn't stint on wining and dining. / To avoid having to stint yourself, budget in advance. / His boss is stingy and idle.
++ He headed south after a stint in that village.
++ The administrator is holding back for several reasons.
++ He doesn't have a job, he lives on his mother.
++ He was employed in that factory.
++ I can assure you of my support.
++ Do you approve of hunting.
++ I despair of ever loving him! / Being desperate is the feeling of despair and inadequacy. / She wrote to him in desperation.
++ He delights in annoying me.
++ She had poured(thrown) cold water on the idea. =put a damper on
++ He felt very upset and started to complain about this wicked world, but was interrupted by a knock at the door.
+
 * NCE2 Lesson53
 + It didn't cost much to repair the castle. =Damage was confined to a small portion of it=.
 + Look at that model girl over there, =she must has the perfect body proportion=.
 + If you all do not have a better solution, =I have a proposition=.
-+ They have put out the forest fire, but they still need to find =how the fire began=.
++ They have put out the forest fire, but they still need to find out =how the fire began=. However, a fireman accidentally =discovered the cause=.
 + Cigarette butts can also be called =cigarette ends=.
-+ They have been trying to find out how the fire began. However, a fireman accidentally =discovered the cause=.
 + He noticed the remains of a snake =which was wound round the electric wires of a 16,000 volt power line=.
 + The strange phenomenon baffled all of us, but finally =he solve the mystery=.
 + A bird had =snatched up= the snake and =dropped it on to= electric wires.
