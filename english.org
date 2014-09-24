@@ -486,7 +486,7 @@ Dear Philip,
 + Should I pour you a cup of coffee straight away?
 + Half way across I realized it was a lot further than I thought. I thought I was going to drown.
 + He assembled a panel of scholars to advise him. / The advisory panel disagreed with the decision. / agree on the opinion
-+ They earn their pocket money instead of asking their parents for it.
++ They earn their =pocket money= (pin money, allowance) instead of asking their parents for it.
 + We seem to be equally divided, two for and two against.
 
 * LTT1 Lesson11-13
@@ -583,18 +583,50 @@ Dear Philip,
 
 * LTT1 Lesson15
 + What flights =are there= from London to Vienna tomorrow? I'd like to travel =first class=, please.
-+ Would you =care= for some case?
++ Would you =care= for some cake?
 + I think I will choose the curry. What would you like =afterwards=?
-+ No thanks, I'm trying to =cut down=.
-+ I'm looking for a room. I have got a vacancy. What sort of price are you asking?
++ Smoke? No thanks, I'm trying to =cut down=.
++ I'm looking for a room. Let me see, I have just got a =vacancy=. Great, what =sort of= price are you =asking=?
 + He is =fully booked= till 11 unless there is a =cancellation=. Is 12:50 convenient?
-+ Can you =fix me up= with a part-time job? Anything in particular that =appeals= to you?
-+ A table for one, sir? / Are you having the set lunch? / What's the soup for the day? / And for you main course? / Plaice and apple tart to follow. / And larger to drink with the meal.
++ Can you =fix= me =up with= a part-time job? Anything =in= particular that =appeals= to you?
++ A table for one, please. I will have the =set lunch= and the soup =for the day=. Plaice for the =main course= and apple tart =to follow=. Finally, =larger= to drink with the meal.
 + I have a table for two under the name of Black Moore. / Will this table do for you?
-+ Half of bitter for me.
-+ I'd like to start with prawns and rack of lamb to follow.
-+ How would you like your steak done, sir? =Medium rare=, please. / Raw - uncooked; Blue rare or very rare - cooked very quickly, outside seared, but inside barely cooked; Rare - outside gray-brown, red inside and slightly warm; Medium rare - fully red, warm center; Medium - hot, red and pink inside, gray-brown outside; Medium well done - pink inside; Well done - gray-brown throughout and slightly charred.
++ Half of =bitter= for me.
++ I'd like to =start with= prawns and rack of lamb to follow.
++ How would you like your steak done, sir? =Medium rare=, please. / Raw - uncooked; Blue rare or very rare - cooked very quickly, outside =seared=, but inside =barely cooked=; Rare - gray-brown outside, red inside and slightly warm; Medium rare - fully red, warm center; Medium - hot, red and pink inside, gray-brown outside; Medium well done - pink inside; Well done - gray-brown throughout and slightly =charred=.
 + Half =carafes= means half bottles.
 + I worked =over-time= and I bought the =racing cycle= my self.
-+ He is make my life =a misery=.
++ He is making my life =a misery=.
 + I shouldn't =wear= makeup. Natural beauty is the best. Sometimes he even interferes =with= my homework.
+
+* LTT1 Lesson16
++ How should I do it, sir? Just =tidy= it =up a bit= and =nothing at all=, please.
++ Is anybody =looking after= (attending to) you, sir? No, I'm after a =V-neck pullover= in gray.
++ I should imagine so.
++ How much is it? 75 =pence= (pennies) =exactly=, please.
++ What's wrong with me, doctor? I should say you are generally run down.
++ Don't smash down the door, I have the key! / I accidentally =knock over= my son's lofty tower and the =building blocks= fell out(scattered) everywhere. / The car run him down. / The Canadian army =took down= the barricades =erected= by the Indians.
++ How do you =find things over= this place? If it wasn't for the climate, I like it very much. It won't =take you long= to settle down.
++ I can give you a lift, I'm going right =past= your place.
++ Can you turn the radio down =a fraction= (a little bit)?
++ Wouldn't it be an idea to buy you own soap? Sorry, I didn't realize you feel so =strongly= about it (it bothers you that much).
++ =Snack bar= usually serves fast food.
++ Maxi Quarterpounder with chips
++ We are not =licensed= to sell =alcohol=.
++ We are leaving =first thing= tomorrow. How =on earth= can I get it cleaned? You can =handed it in= for dry cleaning before 9.
++ I'll be needing =an early call= tomorrow, can you =fix that= for me?
++ That's how you do it, but how was I supposed to know.
++ My wife is driving tonight so I need something strong.
++ That's enough, I'm =fed up= with this job! There is no =variety= in our *lives*. You need a holiday. That's =what's the matter with= you.
++ What was the =worst= problem you =encountered= in your present job? How did you =handle= it?
++ What are you most =proud of= having done in your present job?
++ Why do you think you are =qualified for= this job?
++ What sort of boss would you most like to =work for=?
++ Supposing a member of your =stuff= was frequently =away from= work, =claiming= to be ill. What action would you take?
++ If you were working =as part of= a team, what =unspoken rules of behavior= would you observe?
++ How long do you plan to =stay in= this job?
++ =sitting= room (living room) / dinning room
++ He has won a prize =from= a competition.
++ Sometimes is not easy to locate the matching =parenthesis=.
++ You can call hotel =receptionist= or =room service= you need anything.
++ What ought I to do?
