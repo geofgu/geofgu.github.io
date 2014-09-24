@@ -58,13 +58,13 @@
 + Find the =ignition= and start this boat.
 
 * LTT1 Lesson1-3
-+ NAmE:vest BrE: =waistcoat= / NAmE closet BrE =cupboard= / NAmE:sink BrE: =washbasin= / NAmE:apartment BrE: =flat= / NAmE:rinse BrE: =swill= / At least =rinse= your mouth.
++ NAmE'vest BrE'=waistcoat= / NAmE closet BrE =cupboard= / NAmE'sink BrE'=washbasin= / NAmE'apartment BrE'=flat= / NAmE'rinse BrE'=swill= / At least =rinse= your mouth.
 + =So off they went=, headed to the next destination.
 + He saw me at a distance and =came up to= me immediately. / The name =came up= a lot in the discussion. / New year is =coming up= soon. / Call me if anything =comes up=. / The house =comes up= for sale. / New jobs will =come up= soon. / He always =comes up with= new ideas. / I don't think he can =come up with= any money.
 + What happened to him? He is =looking upset=. / You are =looking good= in this dress. / Do I know him? He =looks familiar=.
 + The table is covered with =a piece cloth=. / I need to change my =clothes=. / What is your favorite =item of clothing=?
-+ I spilled the water. BrE: =spilt= / Tonnes of oil =spilled from= the tank. / The words =spilled out in a rush=. / Some jobs are likely to have a negative =spillover into= family life. / The drug has unknown =side effect=. / This article has =negative impact= on readers.
-+ My wife is =laundering clothes= in the =launderette (laundrette, NAmE:laundromat)= at the street corner. / It's illegal to =launder ill-gotten= money. / My clothes are all dirty, I'm going to =do my laundry=.
++ I spilled the water. BrE'=spilt= / Tonnes of oil =spilled from= the tank. / The words =spilled out in a rush=. / Some jobs are likely to have a negative =spillover into= family life. / The drug has unknown =side effect=. / This article has =negative impact= on readers.
++ My wife is =laundering clothes= in the =launderette (laundrette, NAmE'laundromat)= at the street corner. / It's illegal to =launder ill-gotten= money. / My clothes are all dirty, I'm going to =do my laundry=.
 + It's none of their business, they are just =outsiders from off the street=.
 + He wanted me to jump, I'd rather not.
 + I've got a headache, I need some =aspirins=.
@@ -187,7 +187,7 @@
 + But ever since he moved in, he has had trouble =with the neighbors=.
 + The most surprising thing about it, however, is that it can land on a =ploughed= field. / He was most surprised.
 + Old houses here have been rebuilt to =a block of flats=.
-+ [BrE] =carpark= [NAmE] parking =lot=
++ BrE'=carpark= NAmE'parking =lot=
 + refuse a =request= / deny an =accusation=
 + Come and sit next to me! / Sit by me!
 + The river cuts across the park.
@@ -212,7 +212,7 @@
 + People are not so honest as they once were. The temptation to steal is greater then ever before.
 + The woman first bought a few small articles.
 + She handed it to an assistant who wrapped it up for her as quickly as possible.
-+ [BrE]full stop [NAmE]period
++ BrE'=full stop= NAmE'period
 + abbreviations:
   Rd.=road St.=street Ave.=avenue Sq.=square Pl.=place Lane Drive
   Mon. Tue. Wed. Thu. Fri. Sat. Sun.
@@ -257,7 +257,7 @@
 + He had thought of everything except the weather.
 + Intel is such an august company. =dignified
 + the next day / the following day / a day later
-+ bedside telephone / [BrE]bedside table [NAmE]bedstand(night table) / bedside manner / She kept vigil at the bedside of her critically ill son.
++ bedside telephone / BrE'bedside table NAmE'=bedstand(night table)= / bedside manner / She kept vigil at the bedside of her critically ill son.
 + Mourners are to stage a candlelit vigil at the People's Square.
 + He telephoned the hospital exchange and ask for a doctor.
 + He said he was inquiring about a certain patient, a Mr. John Gilbert.
@@ -330,20 +330,16 @@
 
 * NCE2 Unit3
 + He saved up for years to buy a real bed with springs and a mattress. / A storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. / Although the bed was smashed to pieces, the man was miraculously unhurt. / He promptly went to sleep again.
-• He didn't have much time to read the newspaper carefully. __________. / She recognized him __________. / He suddenly realized it was so late when he __________.
-•
-                                         1800 Xizha Rd.,
-					 Fengxian District,
-					 Shanghai,
-					 China.
-					 14th Sep., 2014
++ He didn't have much time to read the newspaper carefully. =He just glanced through(over) it=. / She recognized him =at a glance=. / He suddenly realized it was so late when he =glanced at his watch=.
++	1800 Xizha Rd.,
+	Fengxian District,
+	Shanghai,
+	China.
+	14th Sep., 2014
 Dear Philip,
-...
-^ He just glanced through(over) it / at a glance / glanced at his watch
-• If you just keep working without saying anything, __________. / The assistance comes with a price. __________ __________. / She is with me, we are trying to find the direction.__________.
-• "__________!" the bus driver shouted.
-^ someone else might take credit for your effort / It's not free aid, don't take it for granted / I just took her for a ride but lost our way
-^ Get on the bus / Get off the bus
+Thank you for your letter. I am glad to learn that...
++ If you just keep working without saying anything, =someone else might take credit for your effort=. / The assistance comes with a price. It's not =free aid=, don't =take it for granted=. / I can take you =for a ride= in my new car if you want.
++ "=Get on(off)= the bus!" the bus driver shouted.
 
 * Twitch Malware Spends Users Money
 + The video game streaming site Twitch can spend users' money without authorization.
@@ -506,7 +502,7 @@ Dear Philip,
 + a decent job
 + a paradox and a contradiction
 + book a double room with bath from 1st to 14th August inclusive
-+ [BrE]rucksack [NAmE]knapsack
++ BrE'=rucksack= NAmE'knapsack
 + I've been working on my novel. How far have you got with it?
 + I was queuing for the cinema.
 + a watch that tells you the date and the day
