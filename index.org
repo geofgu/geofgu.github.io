@@ -1,7 +1,10 @@
 #+TITLE: Feng's Notes
 #+AUTHOR: Gu Feng
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
-#+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-| [[file:english.html][English]] |
+| [[file:english.html][English Notes]]    |
+| [[file:nce2.html][NCE2]]             |
+| [[file:nce3.html][NCE3]]             |
+| [[file:nce4.html][NCE4]]             |
 | [[file:machine_learning.html][Machine Learning]] |

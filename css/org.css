@@ -16,6 +16,14 @@ body {
     z-index: 99;
 }
 
+_p {
+    white-space: pre-wrap; /* css-3 */
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */
+    white-space: -o-pre-wrap; /* Opera 7 */
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
 #orgquote {
     position: fixed;
     display: block;
@@ -197,14 +205,6 @@ pre {
 
 #outline-container-1 {
     padding-top: 3pt;
-}
-
-.outline-2 h2 {
-    font-family: Courier New; 
-}
-
-.outline-2 h3 {
-    font-family: Courier New; 
 }
 
 p { 
