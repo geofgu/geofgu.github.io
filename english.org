@@ -84,7 +84,7 @@
 + I’ve never been =abroad= before.
 + =In a way(in some way, in one way)=, television is more =challenging= than theater.
 + The chair is =in the way=, move it!
-+ I =ran into= them on the way home. / The bank =ran into= financial difficulties. / Our debts are running into millions of dollars.
++ I =ran into= them on the way home. / The bank =ran into= financial difficulties. / Our debts are =running into= millions of dollars.
 + He's the man who =goes through= his whole life =blending into the wallpaper=, =seemingly content= to work hard =day-in and day-out= and =leave the spotlight to others=.
 + He has sent =a great many requests for= spare parts. / Can you =spare= me a moment?
 + They went =on a short excursion= into the forest. / Seems she has gone on =an excursion= into non-related topics.
@@ -96,7 +96,7 @@
 + They usually =knock off= (get off work) around five to drink beer. / I =knocked= the lamp off the table. / The shop assistant =knocked= 10% off the bill.
 + Try not to =knock= that vase over.
 + The blows =knocked me out= (stunned me).
-+ a =bag= of flour / a =tube= of toothpaste / a =flowerpots= with plastic plants / two tall, shapely brass candlesticks
++ a =bag= of flour / a =bar= of soap / a =tube= of toothpaste / a =flowerpots= with plastic plants / two tall, shapely brass candlesticks
 + the customs house / customs invoice / the level of =customs duties= (tariff) on imports / a customs officer / Arriving =refugees= were =whisked= through customs.
 + Two detectives were =keeping guard= at the door.
 + =To their surprise=, the parcel was full of stones and sand!
@@ -626,3 +626,45 @@ Thank you for your letter. I am glad to learn that...
 + Sometimes is not easy to locate the matching =parenthesis=.
 + You can call hotel =receptionist= or =room service= you need anything.
 + What ought I to do?
+
+* LTT1 Lesson17
++ When the coupon is used =in conjunction with= credit card, an identification is =mandatory=.
++ That will be eighty-five pence =in all=.
++ And while I =think of it=, please ask when you borrow the iron. I really ought to =have known better=, sorry.
++ It's =bound= to be strange at first.
++ It's time we =were off=, thanks for the wonderful meal.
++ Can I give you a lift?" "Isn't it =out= of your way?"
++ How long have you had it? The =best part= of a week. =By the sound of it=, you've got a chill.
++ condiments and spreads - peanut butter, mustard, soy sauce, vinegar, chutney, ketchup, sweet spreads, lemon curd, marmalade.
++ I'd like to =reserve= a table for two, please. =Was= that today and what time =was= it?
++ too many white clouds
++ We =are stuck= here, we can't take off!
++ London school teachers =protested about= their salaries and =conditions=. They are now on their second week of =strike= for =better pay=.
+
+* LTT1 Lesson18
++ I actually don't =feel like= one at the moment, thanks.
++ I believe you =take in= foreign students. Yes, if you don't mind sharing.
++ Will Friday do?
++ I wonder whether the dentist could =fit= me =in= tomorrow. I'm afraid there is =nothing= before midday.
++ I =was= wondering whether you needed any part-timers. What were you thinking of?
++ There is nothing at present, but =look back= in week.
++ How do you like it, sir. Just a trim, please.
++ What have you got =in the way= of brown =suede= jacket?
++ Hold the line(hold on), please.
++ I'll just see if she is in. Right you are.
++ I'm spending a few month =brushing up= my English and getting to know the country better.
++ I'm keen on getting some experience abroad.
++ Well, you'd find it =rather different= here, we have only ten tables. That must be very =cozy=. We try to create a warm =intimate atmosphere=.
++ You'll be working =directly under= me.
++ look after the bills
++ The usual question - what sort of salary were you thinking of paying?
++ I like to see your actions so to speak.
++ What's the forecast.
++ =Come off it= (save it), Mulligan. For a start, you spent three days watching the house.
++ The neighbors got =suspicious= and phoned the police.
++ You should've worn gloves. We find your finger print on the jewels.
++ If you'd(had) =taken up= burglary, you'd(would) have made a fortune.
++ I get more =black eyes= than goals.
++ On dry hard football =pitches= they break their bones; on muddy ones they =sprain= their =muscles=.
++ =Down with= football, I say.
++ Let me see, that is a =bad= cut. I'll put a =plaster= on it, but you'll have to see a doctor.
