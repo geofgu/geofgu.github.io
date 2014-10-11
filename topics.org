@@ -1,0 +1,36 @@
+#+AUTHOR: Gu Feng
+#+TITLE: IELTS TOPICS
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hide.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
+#+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+* Technology
+
+* Environment
+
+* Culture
+- 撤销(婚姻) =annulment of marriage= / 废止(法令) =repeal an act= / 封建迷信尽早废除,毒害人心 =The abolishment of superstitious practices and customs should be carried out as soon as possible since they may poison people's mind.= #
+- 社会富足 =the enrichment of society= / 孩子似的兴高采烈 =childlike exuberance= # / 愈加匮乏的水资源 =an ever increasing scarcity of water= / 货源充足 =available in abundance= / 丰年 =a year of abundance= / 图书馆丰富的历史文化书籍能让市民了解国家的过去 =The abundance of historical and cultural books in libraries enables citizens to have an understanding of the countries' past.=
+- 市民免费使用图书馆获得信息 =Citizens should have free access to the library so that they may get contact with the latest information.=
+- 成就感 =a sense of accomplishment= / 满足感 =a sense of fulfillment= # / 奥运会开幕被用于宣传 =The opening ceremonies of the Olympic Games are now used to publicise the host countries' accomplishment and reveal the countries' connotation.= #
+
+* Ethics
+- 令人震惊,无法容忍 =outrageous and intolerable=
+- 受责任心,道德约束或至少法律的制约 =be subject to the sense of responsibility, moral obligation or at least the law= #
+
+* Education
+- 优缺点 =merits and demerits= / 艺术成就 =artistic achievement= / 科学成就 =scientific achievement= / 穿校服提高成绩应该普及 =School uniforms increase attendance and academic achievements, so the practice of wearing uniforms at school should be popularised.= #
+
+* Animal
+- 年轻人适应新环境的能力 =the adaptability of youth to new surroundings= / 社会适应力 =the adaptability to the society= / 砍伐森林导致动物灭亡 =The deforestation will drive animals without the adaptability to new surroundings into mass extinction.=
+
+* Rights
+
+* Work & Life
+- 移民融入社区 =immigrants try to assimilate into the community= / 埋头苦干 =absorption in one's work= / 潜心研究 =absorption in study= / 兼并部落 =absorption of smaller tribes= / 食荤者为了营养吃肉 =As for proponents of meat eating, absorption of nourishment is the major reason for them to have meat.= #
+
+* Crime
+- 满口脏话 =abusive= / 青少年犯罪 =juvenile delinquency= / 对儿童施虐 =subject a child to abuse= / 滥用药物 =substance abuse= / 滥用特权 =the abuse of privilege= / 运动员服用禁药并不少见 =Abuse of performance-enhancing drugs is not uncommon among athletes.= #
+
+* Health
+

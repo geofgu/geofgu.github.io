@@ -1,0 +1,6 @@
+code {
+    display: none;
+}
+li:hover code {
+    display: inline;
+}

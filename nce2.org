@@ -2,7 +2,7 @@
 #+TITLE: NCE2
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hover.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
-#+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=
+#+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 * A private conversation
 Why did the writer complain to the people behind him?
@@ -24,7 +24,7 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 
 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
 
-* Please send me a card 
+* Please send me a card
 How many cards did the writer send?
 
 Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
@@ -32,12 +32,12 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 * An exciting trip
 Why is Tim finding this trip exciting?
 
-I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is fending this trip very exciting.
+I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is finding this trip very exciting.
 
-* No wrong numbers 
+* No wrong numbers
 What does 'No wrong numbers' mean?
 
-Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
+Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
 
 * Percy Buttons
 Who is Percy Buttons?
@@ -59,22 +59,22 @@ What does 'a cold welcome' refer to?
 
 On Wednesday evening, we went to the Town Hall. It was the last day of the year and a large crowd of people had gathered under the Town Hall clock. It would strike twelve in twenty minutes' time. Fifteen minutes passed and then, at five to twelve, the clock stopped. The big minute hand did not move. We waited and waited, but nothing happened. Suddenly someone shouted. 'It's two minutes past twelve! The clock has stopped!' I looked at my watch. It was true. The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing.
 
-* Not for jazz 
+* Not for jazz
 What happened to the clavichord?
 
 We have an old musical instrument. It is called a clavichord. It was made in Germany in 1681. Our clavichord is kept in the living room. It has belonged to our family for a long time. The instrument was bought by my grandfather many years ago. Recently it was damaged by a visitor. She tried to play jazz on it! She struck the keys too hard and two of the strings were broken. My father was shocked. Now we are not allowed to touch it. It is being repaired by a friend of my father's.
 
-* One good turn deserves another 
+* One good turn deserves another
 Who paid for Tony's dinner?
 
 I was having dinner at a restaurant when Tony Steele came in. Tony worked in a lawyer's office years ago, but he is now working at a bank. He gets a good salary, but he always borrows money from his friends and never pays it back. Tony saw me and came and sat at the same table. He has never borrowed money from me. While he was eating, I asked him to lend me twenty pounds. To my surprise, he gave me the money immediately. 'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'
 
-* Goodbye and good luck 
+* Goodbye and good luck
 Where is Captain Alison going and how?
 
 Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow. We'll meet him at the harbour early in the morning. He will be in his small boat, Topsail. Topsail is a famous little boat. It has sailed across the Atlantic many times. Captain Alison will set out at eight o'clock, so we'll have plenty of time. We'll see his boat and then we'll say goodbye to him. He will be away for two months. We are very proud of him. He will take part in an important race across the Atlantic.
 
-* The Greenwood Boys 
+* The Greenwood Boys
 Why will the police have a difficult time?
 
 The Greenwood Boys are a group of pop singers. At present, they are visiting all parts of the country. They will be arriving here tomorrow. They will be coming by train and most of the young people in the town will be meeting them at the station. Tomorrow evening they will be singing at the Workers' Club. The Greenwood Boys will be staying for five days. During this time, they will give five performances. As usual, the police will have a difficult time. They will be trying to keep order. It is always the same on these occasions.
@@ -84,18 +84,18 @@ Did the young man speak English?
 
 I had an amusing experience last year. After I had left a small village in the south of France, I drove on to the next town. On the way, a young man waved to me. I stopped and he asked me for a lift. As soon as he had got into the car, I said good morning to him in French and he replied in the same language. Apart from a few words, I do not know any French at all. Neither of us spoke during the journey. I had nearly reached the town, when the young man suddenly said, very slowly, "Do you speak English?' As I soon learnt, he was English himself!'
 
-* Good news 
+* Good news
 What was the good news?
 
 The secretary told me that Mr. Harmsworth would see me. I felt very nervous when I went into his office. He did not look up from his desk when I entered. After I had sat down, he said that business was very bad. He told me that the firm could not afford to pay such large salaries. Twenty people had already left. I knew that my turn had come.
 
-'Mr.Harmsworth,' I said in a weak voice.
+'Mr. Harmsworth,' I said in a weak voice.
 
 'Don't interrupt,' he said.
 
 Then he smiled and told me I would receive an extra thousand pounds a year!
 
-* A polite request 
+* A polite request
 What was the polite request?
 
 If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic police are sometimes very polite. During a holiday in Sweden, I found this note on my car: 'sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
@@ -116,9 +116,9 @@ After I had had lunch at a village pub, I looked for my bag. I had left it on a 
 
 The landlord smiled and immediately went out. In a few minutes he returned with my bag and gave it back to me.
 
-'I'm very sorry,' he said. 'My dog had taken in into the garden. He often does this!'
+'I'm very sorry,' he said. 'My dog had taken it into the garden. He often does this!'
 
-* Sold out 
+* Sold out
 When will the writer see the play?
 
 'The play may begin at any moment,' I said.
@@ -165,12 +165,12 @@ Why is the new house special?
 
 I had a letter from my sister yesterday. She lives in Nigeria. In her letter, she said that she would come to England next year. If she comes, she will get a surprise. We are now living in a beautiful new house in the country. Work on it had begun before my sister left. The house was completed five months ago. In my letter, I told her that she could stay with us. The house has many large rooms and there is a lovely garden. It is a very modern house, so it looks strange to some people. It must be the only modern house in the district.
 
-* If could be worse 
+* If could be worse
 Had the writer's money been stolen?
 
 I entered the hotel manager's office and sat down. I had just lost $50 and I felt very upset. 'I left the money in my room,' I said, 'and it's not there now.' The manager was sympathetic, but he could do nothing. 'Everyone's losing money these days,' he said. He started to complain about this wicked world but was interrupted by a knock at the door. A girl came in and put an envelope on his desk. It contained $50. 'I found this outside this gentleman's room,' she said. 'Well,' I said to the manager, 'there is still some honesty in this world!'
 
-* Do the English speak English? 
+* Do the English speak English?
 Why does the writer not understand the porter?
 
 I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me. I repeated my question several times and at last he understood. he answered me, but he spoke neither slowly nor clearly. 'I am a foreigner,' I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that! The porter and I looked at each other and smiled. Then he said something and I understood it. 'You'll soon learn English!' he said. I wonder. In England, each person speaks a different language. The English understand each other, but I don't understand them! Do they speak English?
@@ -180,7 +180,7 @@ Who is the student's best critic?
 
 I am an art student and I paint a lot of pictures. Many people pretend that they understand modern art. They always tell you what a picture is 'about'. Of course, many pictures are not 'about' anything. They are just pretty patterns. We like them in the same way that we like pretty curtain material. I think that young children often appreciate modern pictures better than anyone else. They notice more. My sister is only seven, but she always tells me whether my pictures are good or not. She came into my room yesterday.
 
-'What are you doing?' she asked. 
+'What are you doing?' she asked.
 
 'I'm hanging this picture on the wall,' I answered. 'It's a new one. Do you like it?'
 
@@ -203,7 +203,7 @@ Does Captain Fawcett think any trip is too dangerous?
 
 Captain Ben Fawcett has bought an unusual taxi and has begun a new service. The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'. This wonderful plane can carry seven passengers. The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field. Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains. Since then, Captain Fawcett has flown passengers to many unusual places. Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park. Captain Fawcett has just refused a strange request from a businessman. The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.
 
-* Football or polo? 
+* Football or polo?
 What happened to the man in the boat?
 
 The Wayle is a small river that cuts across the park near my home. I like sitting by the Wayle on fine afternoons. It was warm last Sunday, so I went and sat on the river bank as usual. Some children were playing games on the bank and there were some people rowing on the river. Suddenly, one of the children kicked a ball very hard and it went towards a passing boat. Some people on the bank called out to the man in the boat, but he did not hear them. The ball struck him so hard that he nearly fell into the water. I turned to look at the children, but there weren't any in sight: they had all run away! The man laughed when he realized what had happened. He called out to the children and threw the ball back to the bank.
@@ -213,17 +213,17 @@ What was Frank's first job?
 
 Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man. Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop. It was his job to repair bicycles and at that time he used to work fourteen hours a day. He saved money for years and in 1958 he bought a small workshop of his own. In his twenties Frank used to make spare parts for aeroplanes. At that time he had two helpers. In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people. Frank smiled when he remembered his hard early years and the long road to success. He was still smiling when the door opened and his wife came in. She wanted him to repair their grandson's bicycle!
 
-* Shopping made easy 
+* Shopping made easy
 Who was the thief?
 
 People are not so honest as they once were. The temptation to steal is greater than ever before -- especially in large shops. A detective recently watched a well-dressed woman who always went into a large store on Monday mornings. One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her. The woman first bought a few small articles. After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible. Then the woman simply took the parcel and walked out of the shop without paying. When she was arrested, the detective found out that the shop assistant was her daughter. The girl 'gave' her mother a free dress once a week!
 
-* Out of the darkness 
+* Out of the darkness
 Why was the girl in hospital?
 
 Nearly a week passed before the girl was able to explain what had happened to her. One afternoon she set out from the coast in a small boat and was caught in a storm. Towards evening, the boat struck a rock and the girl jumped into the sea. Then she swam to the shore after spending the whole night in the water. During that time she covered a distance of eight miles. Early next morning, she saw a light ahead. She knew she was near the shore because the light was high up on the cliffs. On arriving at the shore, the girl struggled up the cliff towards the light she had seen. That was all she remembered. When she woke up a day later, she found herself in hospital.
 
-* Quick work 
+* Quick work
 How long had the police taken to find his bicycle?
 
 Dan Robinson has been worried all week. Last Tuesday he received a letter from the local police. In the letter he was asked to call at the station. Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore. At the station, he was told by a smiling policeman that his bicycle had been found. Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away. It is now being sent to his home by train. Dan was most surprised when he heard the news. He was amused too, because he never expected the bicycle to be found. It was stolen twenty years ago when Dan was a boy of fifteen!
@@ -251,7 +251,7 @@ My old friend, Harrison, had lived in the Mediterranean for many years before he
 * Am I all right?
 Why did Mr. Gilbert telephone Dr. Millington?
 
-While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so. The following day, the patient asked for a bedside telephone. When he was alone, he telephoned the hospital exchange and asked for Doctor Millington. When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert. He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been. He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hosptial for another two weeks. Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' the patient answered, 'I am Mr. John Gilbert.'
+While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so. The following day, the patient asked for a bedside telephone. When he was alone, he telephoned the hospital exchange and asked for Doctor Millington. When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert. He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been. He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks. Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' the patient answered, 'I am Mr. John Gilbert.'
 
 * Food and talk
 Was Mrs. Rumbold a good companion at dinner?
@@ -274,7 +274,7 @@ In despair, I asked her whether she was enjoying her dinner.
 
 'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!"
 
-* Do you call that a hat? 
+* Do you call that a hat?
 What kind of shopping does the writer enjoy, do you think?
 
 'Do you call that a hat?' I said to my wife.
@@ -293,7 +293,7 @@ I sat down on one of those modern chairs with holes in it and waited. We had bee
 
 Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!
 
-* Not very musical 
+* Not very musical
 What happened when the snake charmer began to play jazz?
 
 As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest. After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him. As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets. When he began to play a tune, we had our first glimpse of the snake. It rose out of the basket and began to follow the movements of the pipe. We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs. The snake, however, continued to 'dance' slowly. It obviously could not tell the difference between Indian music and jazz!
@@ -301,7 +301,7 @@ As we had had a long walk through one of the markets of old Delhi, we stopped at
 * Over the South Pole
 How was the plane able to clear the mountains?
 
-In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time. Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble. At one point, it seemed certain that their plane would crash. It could only get over the mountains if it rose to 10,000 feet. Byrd at once ordered his men to throw out two heavy food sacks. The plane was then able to rise and it cleared the mountains by 400 feet. Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight. The aircraft was able to fly over the endless white plains without difficulty. 
+In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time. Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble. At one point, it seemed certain that their plane would crash. It could only get over the mountains if it rose to 10,000 feet. Byrd at once ordered his men to throw out two heavy food sacks. The plane was then able to rise and it cleared the mountains by 400 feet. Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight. The aircraft was able to fly over the endless white plains without difficulty.
 
 * Through the forest
 How did Mrs. Sterling get her bag back?
@@ -319,9 +319,9 @@ What did the man in this story do?
 When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing. No one could account for the fact that one of the boxes was extremely heavy. It suddenly occurred to one of the workers to open up the box. He was astonished at what he found. A man was lying in the box on top of a pile of woolen goods. He was so surprised at being discovered that he did not even try to run away. After he was arrested, the man admitted hiding in the box before the plane left London. He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours. The man was ordered to pay $3,500 for the cost of the trip. The normal price of a ticket is $2,000!
 
 * A thirsty ghost
-What evidence is there of a ghost?    
+What evidence is there of a ghost?
 
-A public house which was recently bought by Mr.Ian Thompson is up for sale. Mr.Thompson is going to sell it because it is haunted. He told me that he could not go to sleep one night because he heard a strange noise coming from the bar. The next morning, he found that the doors had been blocked by chairs and the furniture had been moved. Though Mr.Thompson had turned the lights off before he went to bed, they were on in the morning. He also said that he had found five empty whisky bottles which the ghost must have drunk the night before. When I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head. The villagers have told him that they will not accept the pub even if he gives it away.
+A public house which was recently bought by Mr. Ian Thompson is up for sale. Mr. Thompson is going to sell it because it is haunted. He told me that he could not go to sleep one night because he heard a strange noise coming from the bar. The next morning, he found that the doors had been blocked by chairs and the furniture had been moved. Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning. He also said that he had found five empty whisky bottles which the ghost must have drunk the night before. When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head. The villagers have told him that they will not accept the pub even if he gives it away.
 
 * Did you want to tell me something?
 Why did the writer become very worried?
@@ -331,7 +331,7 @@ Dentists always ask questions when it is impossible for you to answer. My dentis
 * The end of a dream
 How did the dream end?
 
-Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed. For the first time in his life, he became the proud owner of a bed which had springs and a mattress. Because the weather was very hot, he carried the bed on to the roof of his house. He slept very well for the first two nights, but on the third night, a storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. The young man did not wake up until the bed had struck the ground. Although the bed was smashed to pieces, the man was miraculously unhurt. When he woke up, he was still on the mattress. Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put it on the floor, he promptly went to sleep again.
+Tired of sleeping on the floor, a young man in Tehran saved up for years to buy a real bed. For the first time in his life, he became the proud owner of a bed which had springs and a mattress. Because the weather was very hot, he carried the bed on to the roof of his house. He slept very well for the first two nights, but on the third night, a storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. The young man did not wake up until the bed had struck the ground. Although the bed was smashed to pieces, the man was miraculously unhurt. When he woke up, he was still on the mattress. Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put it on the floor, he promptly went to sleep again.
 
 * Taken for a ride
 Why did the writer not get off the bus at Woodford Green?
@@ -361,7 +361,7 @@ I sat in the front of the bus to get a good view of the countryside. After some 
 * Reward for virtue
 Why did Hugh's diet not work?
 
-My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet. He began his diet a week ago. First of all, he wrote out a long list of all the foods which were forbidden. The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate; and sweets. Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever. He led me into his room and hurriedly hid a large parcel under his desk. It was obvious that he was very embarrassed. When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk. He explained that his diet was so strict that he had to reward himself occasionally. Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!
+My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet. He began his diet a week ago. First of all, he wrote out a long list of all the foods which were forbidden. The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate and sweets. Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever. He led me into his room and hurriedly hid a large parcel under his desk. It was obvious that he was very embarrassed. When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk. He explained that his diet was so strict that he had to reward himself occasionally. Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!
 
 * A pretty carpet
 What is the writer's carpet made of?
@@ -415,7 +415,7 @@ What is the special importance of a telescope in space?
 
 The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars. Right from the start there was trouble with the Hubble. The pictures it sent us were very disappointing because its main mirror was faulty! NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it. The shuttle Endeavour will be taking the astronauts to the Hubble. A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs. Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen. The Hubble will tell us a great deal about the age and size of the universe. By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.
 
-* After the fire 
+* After the fire
 What was the danger to the villages after the fire?
 
 Firemen had been fighting the forest for nearly three weeks before they could get it under control. A short time before, great trees had covered the countryside for miles around. Now, smoke still rose up from the warm ground over the desolate hills. Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well. When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly. The seed was sprayed over the ground in huge quantities by aeroplanes. The planes had been planting seed for nearly a month when it began to rain. By then, however, in many places the grass had already taken root. In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil.
@@ -465,12 +465,12 @@ Do you think that the writer passed his driving test? Why?
 
 I was being tested for a driving licence for the third time. I had been asked to drive in heavy traffic and had done so successfully. After having been instructed to drive out of town, I began to acquire confidence. Sure that I had passed, I was almost beginning to enjoy my test. The examiner must have been pleased with my performance, for he smiled and said. 'Just one more thing, Mr.Eames. Let us suppose that a child suddenly crosses the road in front of you. As soon as I tap on the window, you must stop within five feet.' I continued driving and after some time, the examiner tapped loudly, Though the sound could be heard clearly, it took me a long time to react. I suddenly pressed the brake pedal and we were both thrown forward. The examiner looked at me sadly. 'Mr.Eames,' he said, in a mournful voice, 'you have just killed that child!'
 
-* Red for danger 
+* Red for danger
 How was the drunk removed from the ring?
 
 During a bullfight, a drunk suddenly wandered into the middle of the ring. The crowd began to shout, but the drunk was unaware of the danger. The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap. Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk. The crowd suddenly grew quiet. The drunk, however, seemed quite sure of himself. When the bull got close to him, he clumsily stepped aside to let it pass. The crowd broke into cheers and the drunk bowed. By this time, however, three men had come into the ring and they quickly dragged the drunk to safety. Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.
 
-* A famous clock 
+* A famous clock
 Has Big Ben ever gone wrong?
 
 When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C. If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected. Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built. It is not only of immense size, but is extremely accurate as well. Officials from Greenwich Observatory have the clock checked twice a day. On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower. Big Ben has rarely gone wrong. Once, however, it failed to give the correct time. A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!
@@ -500,7 +500,7 @@ Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried tw
 
 'Oh, is it?' said the sheriff with a sneer. 'Well, I'm Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast!'
 
-* SOS 
+* SOS
 How did the woman get help?
 
 When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed. The only passengers, a young woman and her two baby daughters, were unhurt. It was the middle of winter. Snow lay thick on the ground. The woman knew that the nearest village was miles away. When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find. During the night, it got terribly cold. The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small. Early next morning, she heard planes passing overhead and wondered how she could send a signal. Then she had an idea. She stamped out the letters 'SOS' in the snow. Fortunately, a pilot saw the signal and sent a message by radio to the nearest town. It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.
@@ -520,7 +520,7 @@ For how long did the writer give up smoking?
 
 After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves. I smoked with concentration and pleasure as I was sure that this would be my last cigarette. For a whole week I did not smoke at all and during this time, my wife suffered terribly. I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite. My friends kept on offering me cigarettes and cigars. They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket. After seven days of this I went to a party. Everybody around me was smoking and I felt extremely uncomfortable. When my old friend Brian urged me to accept a cigarette, it was more than I could bear. I took one guiltily, lit it and smoked with satisfaction. My wife was delighted that things had returned to normal once more. Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking. He himself has done it lots of times!
 
-* By air  
+* By air
 Why did the plane turn back?
 
 I used to travel by air a great deal when I was a boy. My parents used to live in South America and I used to fly there from Europe in the holidays. A flight attendant would take charge of me and I never had an unpleasant experience. I am used to traveling by air and only on one occasion have I ever felt frightened. After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport. While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down. Everybody on board was worried and we were curious to find out what had happened. Later we learnt that there was a very important person on board. The police had been told that a bomb had been planted on the plane. After we had landed, the plane was searched thoroughly. Fortunately, nothing was found and five hours later we were able to take off again.
@@ -530,12 +530,12 @@ How many people visited the Great Exhibition of 1851?
 
 Perhaps the most extraordinary building of the nineteeth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851. The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass. It was one of the biggest buildings of all time and a lot of people from many countries came to see it. A great many goods were sent to the exhibition from various parts of the world. There was also a great deal of machinery on display. The most wonderful piece of machinery on show was Nasmyth's steam hammer. Though in those days, traveling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe. On arriving in England, they were taken to the Crystal Palace by train. There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges. Later, the Crystal Palace was moved to South London. It remained one of the most famous buildings in the world until it was burnt down in 1936.
 
-* Escape  
+* Escape
 Why did the prisoner attack the driver?
 
 When he had killed the guard, the prisoner of war quickly dragged him into the bushes. Working rapidly in the darkness, he soon changed into the dead man's clothes. Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp. He could hear shouting in the camp itself. Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped. At that moment, a large black car with four officers inside it, stopped at the camp gates. The officers got out and the prisoner stood to attention and saluted as they passed. When they had gone, the driver of the car came towards him. The man obviously wanted to talk. He was rather elderly with grey hair and clear blue eyes. The prisoner felt sorry for him, but there was nothing else he could do. As the man came near, the prisoner knocked him to the ground with a sharp blow. Then, jumping into the car, he drove off as quickly as he could.
 
-* Monster or fish? 
+* Monster or fish?
 What was the monster called?
 
 Fishermen and sailors sometimes claim to have seen monsters in the sea. Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish. Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea. Some time ago, however, a peculiar fish was caught near Madagascar. A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line. Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way. When it was eventually brought to shore, it was found to be over thirteen feet long. It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail. The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish. Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.
@@ -552,7 +552,7 @@ Who will be driving the buses next week?
 
 Busmen have decided to go on strike next week. The strike is due to begin on Tuesday. No one knows how long it will last. The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions. Most people believe that the strike will last for at least a week. Many owners of private cars are going to offer 'free rides' to people on their way to work. This will relieve pressure on the trains to some extent. Meanwhile, a number of university students have volunteered to drive buses while the strike lasts. All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test. The students are going to take the test in two days' time. Even so, people are going to find it difficult to get to work. But so far, the public has expressed its gratitude to the students in letters to the Press. Only one or two people have objected that the students will drive too fast!
 
-* Never too old to learn 
+* Never too old to learn
 How long has Mr. Page been teaching?
 
 I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week. Pupils of the school, old and new, will be sending him a present to mark the occasion. All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home. We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school. A great many former pupils will be attending a farewell dinner in his honour next Thursday. It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years. After he has retired, he will devote himself to gardening. For him, this will be an entirely new hobby. But this does not matter, for, as he has often remarked, one is never too old to learn.
@@ -585,7 +585,7 @@ What was wrong with the man's story?
 
 'I suggest,' said the inspector, 'that you are not telling the truth. I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time. You see, on the morning of the murder, the 8 o'clock train did not run at all. It broke down at Ferngreen station and was taken off the line.'
 
-* Trapped in a mine 
+* Trapped in a mine
 Why is the rescue taking so long?
 
 Six men have been trapped in a mine for seventeen hours. If they are not brought to the surface soon they may lose their lives. However, rescue operations are proving difficult. If explosives are used, vibrations will cause the roof of the mine to collapse. Rescue workers are therefore drilling a hole on the north side of the mine. They intend to bring the men up in a special capsule. If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours. As it is, they have been drilling for sixteen hours and they still have a long way to go. Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives. Though they are running out of food and drink, the men are cheerful and confident that they will get out soon. They have been told that rescue operations are progressing smoothly. If they knew how difficult it was to drill through the hard rock, they would lose heart.
@@ -620,7 +620,7 @@ It must have been about two in the morning when I returned home. I tried to wake
 
 Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me.
 
-* A noble gift 
+* A noble gift
 Where was the Statue of Liberty made?
 
 One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France. The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete. The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel. Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built. The site chosen was an island at the entrance of New York Harbour. By 1884, a statue which was 151 feet tall had been erected in Paris. The following year, it was taken to pieces and sent to America. By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi. Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.
@@ -630,7 +630,7 @@ What kind of race do the children compete in?
 
 Experiments have proved that children can be instructed in swimming at a very early age. At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk. Babies of two months old do not appear to be reluctant to enter the water. It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool. A game that is very popular with these young swimmers is the underwater tricycle race. Tricycles are lined up on the floor of the pool seven feet under water. The children compete against each other to reach the other end of the pool. Many pedal their tricycles, but most of them prefer to push or drag them. Some children can cover the whole length of the pool without coming up for breath even once. Whether they will ever become future Olympic champions, only time will tell. Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.
 
-* A fantasy 
+* A fantasy
 Why was the Ambassador particularly lucky?
 
 When the Ambassador or Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state.
