@@ -5,32 +5,63 @@
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 * Technology
+- 知识型社会的出现 =the advent of knowledge-based society= / 互联网的出现 =the advent of the Internet= / 随着第一只克隆羊的出现人类克隆违法自然的讨论加剧 =The discussion on whether the human race can go against nature by cloning themselves has heated with the advent of the first cloned sheep Dolly.=
+- 一项科学突破 =a scientific breakthrough= / 在...方面取得重大突破 =make a great breakthrough in= / 依靠无线技术发达国家实现远程教育 =Based on wireless technology, developed countries have realised the breakthrough of providing long distance education for children in remote areas.=
 
 * Environment
+- 促进当地旅游业 =boost local tourism= / 促进当地第三产业 =boost local tertiary industry= / 政府应多办活动促进环保意识 =More public activities should be sponsored by the government to boost the public awareness of environmental protection.=
+- 开车不顾交通法规 =drive with blithe disregard for rules of the road= / 热爱故土 =cherish one's native land= / 教育公民珍惜水不要浪费水资源 =Citizens shoud be educated to cherish every drop of water and never lavish our scarce freshwater resources.=
+
+- 禁止电视广告 =ban on all television advertising= / 禁养宠物 =ban on pets= / 禁烟 =ban on smoking= / 准许搜查 =give his consent to the search= / 同意年龄 =age of consent= / 总统支持全面禁止核试验 =The President supports a global ban on nuclear testing.=
+- 灾难性后果 =catastrophic ramifications= / 一次交通不幸事故 =a mishap of traffic accident= # / 可怕的战争 =frightful war= / 再次欠收将是农民的灾难 =It's would be a calamity for the farmers if the crops failed again.=
 
 * Culture
+- 收拾好行李 =collect one's belongings= / 关于家庭关系的事情 =matters pertaining to family relationship= / 文化遗产属于全人类 =Cultural heritage belongs to all human beings.=
+
 - 撤销(婚姻) =annulment of marriage= / 废止(法令) =repeal an act= / 封建迷信尽早废除,毒害人心 =The abolishment of superstitious practices and customs should be carried out as soon as possible since they may poison people's mind.= #
 - 社会富足 =the enrichment of society= / 孩子似的兴高采烈 =childlike exuberance= # / 愈加匮乏的水资源 =an ever increasing scarcity of water= / 货源充足 =available in abundance= / 丰年 =a year of abundance= / 图书馆丰富的历史文化书籍能让市民了解国家的过去 =The abundance of historical and cultural books in libraries enables citizens to have an understanding of the countries' past.=
 - 市民免费使用图书馆获得信息 =Citizens should have free access to the library so that they may get contact with the latest information.=
 - 成就感 =a sense of accomplishment= / 满足感 =a sense of fulfillment= # / 奥运会开幕被用于宣传 =The opening ceremonies of the Olympic Games are now used to publicise the host countries' accomplishment and reveal the countries' connotation.= #
+- 自由的氛围 =the atmosphere of freedom= / 气压 =atmosphere pressure= # / 经济形势 =economic atmosphere= / 学习氛围 =learning atmosphere= / 老房子有魅力 =This old building has a lot of atmosphere.=
 
 * Ethics
+- 正反意见抵消 =The pros and cons cancel out.=
+
 - 令人震惊,无法容忍 =outrageous and intolerable=
 - 受责任心,道德约束或至少法律的制约 =be subject to the sense of responsibility, moral obligation or at least the law= #
 
 * Education
+- 违抗母亲 =defy my mother= / 我敢说你说不出 =I defy you to come up with= / 挑战权威 =challenge the authority= / 学生认为老师说的不对提出质疑 =Once students think what a teacher says is not correct, they defy him.=
+
 - 优缺点 =merits and demerits= / 艺术成就 =artistic achievement= / 科学成就 =scientific achievement= / 穿校服提高成绩应该普及 =School uniforms increase attendance and academic achievements, so the practice of wearing uniforms at school should be popularised.= #
 
 * Animal
+- 熊猫和秃鹰被列为濒危物种 =Pandas and bald eagles are clasified as endangered species.=
+
 - 年轻人适应新环境的能力 =the adaptability of youth to new surroundings= / 社会适应力 =the adaptability to the society= / 砍伐森林导致动物灭亡 =The deforestation will drive animals without the adaptability to new surroundings into mass extinction.=
+- 请某人援助 =call in one's aid= / 急救 =first aid= / 经济援助 =financial aid= / 国际援助 =international aid= / 与宠物的积极关系有助于建立与他人的信任 =Positive relationships with pets can be an aid in the development of trusting relationships with others.=
+- 禁毒运动 =a campaign against drug abuse= / 竞选活动 =an election campaign= / 参加游行 =join the parade= / 发起运动 =launch a campaign= / 中国越来越多人加入到保护珍稀动物的运动 =More and more people in China have entered the campaign to save rare animals from extinction.=
 
 * Rights
 
 * Work & Life
+- 这篇文章除了长之外没什么不好 =The article is long, but not otherwise blameworthy.= / 警告或批评 =to admonish or censure= # / 有争议的政策引来国际批评 =The controversial policy have attracted international censure.= / 谴责侵略,请求宽容 =denounce the invasion and plead for tolerance= # / 把火灾归咎为短路 =They blamed an electric short circuit for the fire yesterday.=
+- 合理的处理方法是清除堵塞物 =The logical treatment is to remove the blockage.= / 人们被困在被封锁的小镇 =People are trapped in the town, which has been blockaded.= / 调查受阻 =the investigation was hindered by= / 汽车自行车停路边严重阻碍交通 =Cars and bikes parked along the streets block the flow of traffic, sometimes leading to serious traffic congestion.= #
+- 打扰了请问地铁站怎么走 =Sorry to bother you, but can you direct me to the nearest metro station?=
+- 开阔视野 =broaden one's horizon= / 扩大知识面 =broaden one's scope of knowledge= / 开阔眼界 =broaden one's vision= / 旅行开阔心智 =Travelling broadens the mind.=
+- 传达看法 =convey one's view to= / 开放办公环境使员工自由交流 =An open office environment makes workers communicate directly and freely.=
+
 - 移民融入社区 =immigrants try to assimilate into the community= / 埋头苦干 =absorption in one's work= / 潜心研究 =absorption in study= / 兼并部落 =absorption of smaller tribes= / 食荤者为了营养吃肉 =As for proponents of meat eating, absorption of nourishment is the major reason for them to have meat.= #
+- 经济持续下滑 =the economy is continuing to backslide= 不接触同事不了解公司状况阻碍职业发展 =The lack of daily contact with coworkers could take us out of the loop relative to what is going on within the company. This lack of inside knowledge could affect our advancement within the company.=
+- 生态系统崩溃 =breakdown of the ecosystem= / 身体垮掉 =breakdown in heath= / 人际关系紧张,工作压力大,竞争激烈导致白领精神崩溃 =Tense human relationships, heavy pressure from work and life and fierce competition contribute to many white-collar workers' nervous breakdown.= #
 
 * Crime
+- 断定 =allege something without proof= / 嘴上说说却从不付诸行动 =purport to do something but never act out= / 青少年犯罪值得关注 =Juvenile delinquency is one of the several matters that claims the public attention.=
+- 犯下滔天罪行 =commit a heinous crime= / 凶杀 =commit murder= / 竞争激烈白领自杀数上升 =The number of white-collar workers who commit suicide increases with the increasingly intensive social competition.=
+
 - 满口脏话 =abusive= / 青少年犯罪 =juvenile delinquency= / 对儿童施虐 =subject a child to abuse= / 滥用药物 =substance abuse= / 滥用特权 =the abuse of privilege= / 运动员服用禁药并不少见 =Abuse of performance-enhancing drugs is not uncommon among athletes.= #
+- 对形势的冷静估计 =a calm appraisal of the situation= / 工作评价 =assessment of work performance= / 损失评估 =damage/loss assessment= / 不充分讨论利弊无法评估毒品合法化必要性 =It's hard to make assessment on the necessity of drug legalisation if merits and demerits are not fully discussed.=
 
 * Health
-
+- 经济失调 =economic ailment= / 微恙 =trifling ailment= / 以肉奶为主的饮食习惯会引发各种慢性病和生理失调 =Meat and dairy centred diets are linked to many types of cancers, as well as chronic diseases such as heart ailments, diabetes, obesity, gallbladder diseases, hypertension, and more deadly diseases and psychological disorder.=
+- 小儿麻痹首篇权威研究报告 =The first authoritative study report of polio was published in 1840.= / 校方 =school authority= / 经...许可 =by the authority of= / 滥用职权 =strain one's authority= / 卫生部门解决城市垃圾问题 =The health authority should take proper measures to deal with the increasingly serious rubbish problem in urban areas.=
