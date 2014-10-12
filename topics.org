@@ -55,7 +55,10 @@
 - 学习别人优点 =copy one's good points= / 盲目/机械地照做 =copy things blindly/mechanically= # / 扼杀天才 =kill one's talent= / 其实正相反,压力扼杀创造力 =Quite the opposite/On the contrary, I think pressure stifles creativity.=
 - 消除误解 =correct misapprehension= / 改正过错 =correct one's fault= / 改变印象 =correct impression=
 - 养育孩子 =bring up children= / 提出一个课题 =bring up a subject= / 培养责任感 =cultivate a strong sense of responsibility= / 出国留学开阔视野充实思想培养自立 =Overseas study broadens one's vision, enriches one's mind and cultivates independence.=
-- 违抗母亲 =defy my mother= / 我敢说你说不出 =I defy you to come up with= / 挑战权威 =challenge the authority= / 学生认为老师说的不对提出质疑 =Once students think what a teacher says is not correct, they defy him.=
+- 违抗母亲 =defy my mother= / 我敢说你不知道答案 =I defy you to come up with an answer= / 挑战权威 =challenge the authority= / 学生认为老师说的不对提出质疑 =Once students think what a teacher says is not correct, they defy him.=
+- 远程教育和传统教育互补 =Tele-education and traditional classroom teaching complement each other.=
+= 学生应该专心学习,兼职可能会分散注意力 =A student should concentrate his/her attention on academic study and taking a part time job may divert his/her attention.=
+= 他拒绝透露关于那个人的任何消息 =He refused to divulge any information related to/regarding/concerning/involving the man's whereabouts.= / 大学生应该更关心公共事务 =College students should concern themselves more with public affairs.=
 
 - 优缺点 =merits and demerits= / 艺术成就 =artistic achievement= / 科学成就 =scientific achievement= / 穿校服提高成绩应该普及 =School uniforms increase attendance and academic achievements, so the practice of wearing uniforms at school should be popularised.= #
 
@@ -66,7 +69,8 @@
 - 年轻人沉静其中而没有意识到他们有多努力 =The youngsters were so absorbed in it and did not realise how much they are exerting themselves.= / 不要做无用功 =Do not exert yourself unnecessarily.=
 
 * Animal
-- 熊猫和秃鹰被列为濒危物种 =Pandas and bald eagles are clasified as endangered species.=
+- 熊猫和秃鹰被列为濒危物种 =Pandas and bald eagles are classified as endangered species.= #
+- sue complain grumble whine mutter murmur / 邻居家养宠物的人们总是埋怨睡觉被吵醒 =People whose neighbours have pets always complain that their sleep is interrupted at midnight by the pets' noises.=
 
 - 年轻人适应新环境的能力 =the adaptability of youth to new surroundings= / 社会适应力 =the adaptability to the society= / 砍伐森林导致动物灭亡 =The deforestation will drive animals without the adaptability to new surroundings into mass extinction.=
 - 请某人援助 =call in one's aid= / 急救 =first aid= / 经济援助 =financial aid= / 国际援助 =international aid= / 与宠物的积极关系有助于建立与他人的信任 =Positive relationships with pets can be an aid in the development of trusting relationships with others.=
@@ -80,8 +84,9 @@
 - 这篇文章除了长之外没什么不好 =The article is long, but not otherwise blameworthy.= / 警告或批评 =to admonish or censure= # / 有争议的政策引来国际批评 =The controversial policy have attracted international censure.= / 谴责侵略,请求宽容 =denounce the invasion and plead for tolerance= # / 把火灾归咎为短路 =They blamed an electric short circuit for the fire yesterday.=
 - 合理的处理方法是清除堵塞物 =The logical treatment is to remove the blockage.= / 人们被困在被封锁的小镇 =People are trapped in the town, which has been blockaded.= / 调查受阻 =the investigation was hindered by= / 汽车自行车停路边严重阻碍交通 =Cars and bikes parked along the streets block the flow of traffic, sometimes leading to serious traffic congestion.= #
 - 打扰了请问地铁站怎么走 =Sorry to bother you, but can you direct me to the nearest metro station?=
-- 开阔视野 =broaden one's horizon= / 扩大知识面 =broaden one's scope of knowledge= / 开阔眼界 =broaden one's vision= / 旅行开阔心智 =Travelling broadens the mind.=
+- 开阔视野 =broaden one's horizon= / 扩大知识面 =broaden one's scope of knowledge= / 开阔眼界 =broaden one's vision= / 旅行开阔心智 =Traveling broadens the mind.= #
 - 传达看法 =convey one's view to= / 开放办公环境使员工自由交流 =An open office environment makes workers communicate directly and freely.=
+- 发展中国家与发达国家竞争世界市场 =Developing countries have to compete with developed countries for the world market.=
 
 - 移民融入社区 =immigrants try to assimilate into the community= / 埋头苦干 =absorption in one's work= / 潜心研究 =absorption in study= / 兼并部落 =absorption of smaller tribes= / 食荤者为了营养吃肉 =As for proponents of meat eating, absorption of nourishment is the major reason for them to have meat.= #
 - 经济持续下滑 =the economy is continuing to backslide= 不接触同事不了解公司状况阻碍职业发展 =The lack of daily contact with coworkers could take us out of the loop relative to what is going on within the company. This lack of inside knowledge could affect our advancement within the company.=
@@ -99,6 +104,8 @@
 - 建设性地讨论 =constructive confrontation= / 面临 =be confronted with= / 把会议提前 =set forward the meeting= / 面对棘手问题提出以下有效措施 =Confronted with such a thorny issue, people set forth the following effective measures.=
 - 断定 =allege something without proof= / 嘴上说说却从不付诸行动 =purport to do something but never act out= / 青少年犯罪值得关注 =Juvenile delinquency is one of the several matters that claims the public attention.=
 - 犯下滔天罪行 =commit a heinous crime= / 凶杀 =commit murder= / 竞争激烈白领自杀数上升 =The number of white-collar workers who commit suicide increases with the increasingly intensive social competition.=
+- 被迫认罪 =be coerced into pleading guilty= / 对零售商强制罚款 =fines are imposed on retailers= / 一部充满恐怖暴力但却引人入胜的电影 =a frighteningly violent yet compelling film= / 酸雨迫使人们呆在屋里 =Acid rain compels people to stay indoors.=
+- 为暴行赎罪 =atone for atrocities it committed= / 光阴一去不复返 =Nothing can compensate for the loss of time.=
 
 - 满口脏话 =abusive= / 青少年犯罪 =juvenile delinquency= / 对儿童施虐 =subject a child to abuse= / 滥用药物 =substance abuse= / 滥用特权 =the abuse of privilege= / 运动员服用禁药并不少见 =Abuse of performance-enhancing drugs is not uncommon among athletes.= #
 - 对形势的冷静估计 =a calm appraisal of the situation= / 工作评价 =assessment of work performance= / 损失评估 =damage/loss assessment= / 不充分讨论利弊无法评估毒品合法化必要性 =It's hard to make assessment on the necessity of drug legalisation if merits and demerits are not fully discussed.=
@@ -110,7 +117,8 @@
 - 克服坏习惯 =conquer bad habit= # / 现代医学攻克很多疾病 =Modern medical science has conquered many diseases.=
 - 含有污染物 =contain contaminants= / 自控 =contain oneself= / 快餐吃多了有害身体 =Eating too much fast food is physically damaging, for fast foods contain to much sugar, fat and calories.=
 - 过分沉溺于电脑游戏导致近视,肥胖和重复性损伤 =Overindulgence in computer games contributes to myopia, obesity and repetitive stress injuries.=
-- 过早地处于亚健康状态 =in the state of sub-health prematurely=
+- 过早地处于亚健康状态 =be in the state of sub-health prematurely=
+- 解决办法就在政府手中 =The remedy lies in the hands of the government.= / 万灵药 =cure-all= / 身患绝症 =suffering incurable/terminal disease= / 克隆技术帮助治愈遗传疾病使人们过上健康生活 =The cloning technology would help scientists to cure genetic diseases and also other diseases so that people can live longer healthy lives.=
 
 - 经济失调 =economic ailment= / 微恙 =trifling ailment= / 以肉奶为主的饮食习惯会引发各种慢性病和生理失调 =Meat and dairy centred diets are linked to many types of cancers, as well as chronic diseases such as heart ailments, diabetes, obesity, gallbladder diseases, hypertension, and more deadly diseases and psychological disorder.=
 - 小儿麻痹首篇权威研究报告 =The first authoritative study report of polio was published in 1840.= / 校方 =school authority= / 经...许可 =by the authority of= / 滥用职权 =strain one's authority= / 卫生部门解决城市垃圾问题 =The health authority should take proper measures to deal with the increasingly serious rubbish problem in urban areas.=
