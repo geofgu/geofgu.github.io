@@ -5,120 +5,120 @@
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 * Technology
-- 体力劳动几乎全部有男性完成 =manual labour has been performed almost exclusively by men= # / 工序由电脑控制 =The process are all electronically controlled.=
+- 体力劳动几乎全部有男性完成 =manual labour has been performed almost exclusively by men= # 工序由电脑控制 =The process are all electronically controlled.=
 - 因特网是传播信息的便捷途径 =The Internet is a convenient way to convey information.= #
 
-- 一项科学突破 =a scientific breakthrough= / 在...方面取得重大突破 =make a great breakthrough in= / 依靠无线技术发达国家实现远程教育 =Based on wireless technology, developed countries have realised the breakthrough of providing long distance education for children in remote areas.=
+- 一项科学突破 =a scientific breakthrough= 在...方面取得重大突破 =make a great breakthrough in= 依靠无线技术发达国家实现远程教育 =Based on wireless technology, developed countries have realised the breakthrough of providing long distance education for children in remote areas.=
 
 * Environment
-- 穿着保守 =conservatively dressed= / 人们年轻时开放年纪大后保守 =People tend to be more liberal when they are young and become more conservative as they get older.= / 保护文化遗产 =conserve cultural treasures= / 保护自然资源 =conserve natural resources= / 为后代保护林地 =We must conserve our woodlands for future generations.=
-- 耗时的 =time-consuming= / 消耗能量 =consume energy= / 过度消费导致严重赤字 =excessive consumption resulted in heavy trade deficit= / 粗放灌溉消耗宝贵水资源 =Extensive irrigation consumes our scarce freshwater resources.=
+- 穿着保守 =conservatively dressed= 人们年轻时开放年纪大后保守 =People tend to be more liberal when they are young and become more conservative as they get older.= 保护文化遗产 =conserve cultural treasures= 保护自然资源 =conserve natural resources= 为后代保护林地 =We must conserve our woodlands for future generations.=
+- 耗时的 =time-consuming= 消耗能量 =consume energy= 过度消费导致严重赤字 =excessive consumption resulted in heavy trade deficit= 粗放灌溉消耗宝贵水资源 =Extensive irrigation consumes our scarce freshwater resources.=
 - 有效防范,控制人口增长,减轻环境压力 =with effective precautions, control population growth and alleviate environmental pressures= #
-- 耕地 =cultivatable land= / 把耕地作为开发区的政策受到严厉批评被视为不环保 =The policies of turning tillable fields into development zones have been severely criticized and regarded as environmental unfriendly.= #
+- 耕地 =cultivatable land= 把耕地作为开发区的政策受到严厉批评被视为不环保 =The policies of turning tillable fields into development zones have been severely criticized and regarded as environmental unfriendly.= #
 
-- 促进当地旅游业 =boost local tourism= / 促进当地第三产业 =boost local tertiary industry= / 政府应多办活动促进环保意识 =More public activities should be sponsored by the government to boost the public awareness of environmental protection.=
-- 开车不顾交通法规 =drive with blithe disregard for rules of the road= / 热爱故土 =cherish one's native land= / 教育公民珍惜水不要浪费水资源 =Citizens shoud be educated to cherish every drop of water and never lavish our scarce freshwater resources.=
+- 促进当地旅游业 =boost local tourism= 促进当地第三产业 =boost local tertiary industry= 政府应多办活动促进环保意识 =More public activities should be sponsored by the government to boost the public awareness of environmental protection.=
+- 开车不顾交通法规 =drive with blithe disregard for rules of the road= 热爱故土 =cherish one's native land= 教育公民珍惜水不要浪费水资源 =Citizens shoud be educated to cherish every drop of water and never lavish our scarce freshwater resources.=
 
-- 禁止电视广告 =ban on all television advertising= / 禁养宠物 =ban on pets= / 禁烟 =ban on smoking= / 准许搜查 =give his consent to the search= / 同意年龄 =age of consent= / 总统支持全面禁止核试验 =The President supports a global ban on nuclear testing.=
-- 灾难性后果 =catastrophic ramifications= / 一次交通不幸事故 =a mishap of traffic accident= # / 可怕的战争 =frightful war= / 再次欠收将是农民的灾难 =It's would be a calamity for the farmers if the crops failed again.=
+- 禁止电视广告 =ban on all television advertising= 禁养宠物 =ban on pets= 禁烟 =ban on smoking= 准许搜查 =give his consent to the search= 同意年龄 =age of consent= 总统支持全面禁止核试验 =The President supports a global ban on nuclear testing.=
+- 灾难性后果 =catastrophic ramifications= 一次交通不幸事故 =a mishap of traffic accident= # 可怕的战争 =frightful war= 再次欠收将是农民的灾难 =It's would be a calamity for the farmers if the crops failed again.=
 
-- 性兴奋 =sexual arousal= / 毫无睡意 =feel wide awake= / 上班时间打瞌睡 =have fallen asleep on the job= / 惹怒 =provoke someone= / 刺激经济 =stimulate the economy= / 搅动汤 =stir the soup= / 激发好奇/热情/兴趣 =arouse curiosity/enthusiasm/interest= / 酸雨激发环保意识 =Acid rain arouses people's awareness of environmental protection.=
+- 性兴奋 =sexual arousal= 毫无睡意 =feel wide awake= 上班时间打瞌睡 =have fallen asleep on the job= 惹怒 =provoke someone= 刺激经济 =stimulate the economy= 搅动汤 =stir the soup= 激发好奇/热情/兴趣 =arouse curiosity/enthusiasm/interest= 酸雨激发环保意识 =Acid rain arouses people's awareness of environmental protection.=
 - 沙漠化损失估计上百万 =Damage caused by desertification was assessed at millions of dollars.=
-- 容忍儿子的行为 =put up with the behaviour of their son= / 持久的友谊 =enduring friendship= / 承担重任 =bear heavy burden= / 请耐心听我说 =bear with me= / 牢记珍惜水资源 =We should always bear in mind that freshwater resources are our lifeblood that we should cherish.=
+- 容忍儿子的行为 =put up with the behaviour of their son= 持久的友谊 =enduring friendship= 承担重任 =bear heavy burden= 请耐心听我说 =bear with me= 牢记珍惜水资源 =We should always bear in mind that freshwater resources are our lifeblood that we should cherish.=
 
 * Culture
-- 相互协调 =harmonize with each other= / 发展得当的话旅游业与保护古建筑不矛盾 =Carried out in the right way, tourism may not conflict with the conservation of historic buildings.=
+- 相互协调 =harmonize with each other= 发展得当的话旅游业与保护古建筑不矛盾 =Carried out in the right way, tourism may not conflict with the conservation of historic buildings.=
 
-- 收拾好行李 =collect one's belongings= / 关于家庭关系的事情 =matters pertaining to family relationship= / 文化遗产属于全人类 =Cultural heritage belongs to all human beings.=
+- 收拾好行李 =collect one's belongings= 关于家庭关系的事情 =matters pertaining to family relationship= 文化遗产属于全人类 =Cultural heritage belongs to all human beings.=
 
-- 撤销(婚姻) =annulment of marriage= / 废止(法令) =repeal an act= / 封建迷信尽早废除,毒害人心 =The abolishment of superstitious practices and customs should be carried out as soon as possible since they may poison people's mind.= #
-- 社会富足 =the enrichment of society= / 孩子似的兴高采烈 =childlike exuberance= # / 愈加匮乏的水资源 =an ever increasing scarcity of water= / 货源充足 =available in abundance= / 丰年 =a year of abundance= / 图书馆丰富的历史文化书籍能让市民了解国家的过去 =The abundance of historical and cultural books in libraries enables citizens to have an understanding of the countries' past.=
+- 撤销(婚姻) =annulment of marriage= 废止(法令) =repeal an act= 封建迷信尽早废除,毒害人心 =The abolishment of superstitious practices and customs should be carried out as soon as possible since they may poison people's mind.= #
+- 社会富足 =the enrichment of society= 孩子似的兴高采烈 =childlike exuberance= # 愈加匮乏的水资源 =an ever increasing scarcity of water= 货源充足 =available in abundance= 丰年 =a year of abundance= 图书馆丰富的历史文化书籍能让市民了解国家的过去 =The abundance of historical and cultural books in libraries enables citizens to have an understanding of the countries' past.=
 - 市民免费使用图书馆获得信息 =Citizens should have free access to the library so that they may get contact with the latest information.=
-- 成就感 =a sense of accomplishment= / 满足感 =a sense of fulfillment= # / 奥运会开幕被用于宣传 =The opening ceremonies of the Olympic Games are now used to publicise the host countries' accomplishment and reveal the countries' connotation.= #
-- 自由的氛围 =the atmosphere of freedom= / 气压 =atmosphere pressure= # / 经济形势 =economic atmosphere= / 学习氛围 =learning atmosphere= / 老房子有魅力 =This old building has a lot of atmosphere.=
+- 成就感 =a sense of accomplishment= 满足感 =a sense of fulfillment= # 奥运会开幕被用于宣传 =The opening ceremonies of the Olympic Games are now used to publicise the host countries' accomplishment and reveal the countries' connotation.= #
+- 自由的氛围 =the atmosphere of freedom= 气压 =atmosphere pressure= # 经济形势 =economic atmosphere= 学习氛围 =learning atmosphere= 老房子有魅力 =This old building has a lot of atmosphere.=
 
-- 公开表示完全赞同 =endorse the opinion wholeheartedly= / 代言系列美容产品 =endorse a line of cosmetic products= / 签订条约 =ratify a treaty= / 反对... =object to= / 赞同观点 =approve one's opinion= / 批准项目 =approve the project= / 市政府应立项资助传统艺术家以弘扬独特本土文化 =The municipal government should approve a scheme which aims to subsidize traditional artists so as to carry forward our unique indigenous culture.= #
-- 调节争执/纠纷 =arrange quarrel/dispute= # / 婚姻中的冲突 =strife in marriage= / 政府应筹划项目以挽救濒危语言 =The government should arrange for special programmes to save endangered languages.=
-- 猜测 =speculate about something= / 想必... =presumably= / 承担责任 =assume the responsibility= / 语言学家有责任保护濒危语言 =Linguists assume new duties of storing as much information as possible about extinct languages.=
+- 公开表示完全赞同 =endorse the opinion wholeheartedly= 代言系列美容产品 =endorse a line of cosmetic products= 签订条约 =ratify a treaty= 反对... =object to= 赞同观点 =approve one's opinion= 批准项目 =approve the project= 市政府应立项资助传统艺术家以弘扬独特本土文化 =The municipal government should approve a scheme which aims to subsidize traditional artists so as to carry forward our unique indigenous culture.= #
+- 调节争执/纠纷 =arrange quarrel/dispute= # 婚姻中的冲突 =strife in marriage= 政府应筹划项目以挽救濒危语言 =The government should arrange for special programmes to save endangered languages.=
+- 猜测 =speculate about something= 想必... =presumably= 承担责任 =assume the responsibility= 语言学家有责任保护濒危语言 =Linguists assume new duties of storing as much information as possible about extinct languages.=
 
 * Ethics
-- 计划生育无可厚非 =China's family planning policy is above/beyond reproach.= / 科学家谴责克隆人因为有悖伦理道德 =Many scientists condemn cloning human beings for it is morally and ethically wrong.=
+- 计划生育无可厚非 =China's family planning policy is above/beyond reproach.= 科学家谴责克隆人因为有悖伦理道德 =Many scientists condemn cloning human beings for it is morally and ethically wrong.=
 - 正反意见抵消 =The pros and cons cancel out.=
 
 - 令人震惊,无法容忍 =outrageous and intolerable=
 - 受责任心,道德约束或至少法律的制约 =be subject to the sense of responsibility, moral obligation or at least the law= #
-- 知识型社会的出现 =the advent of knowledge-based society= / 互联网的出现 =the advent of the Internet= / 随着第一只克隆羊的出现人类克隆违法自然的讨论加剧 =The discussion on whether the human race can go against nature by cloning themselves has heated with the advent of the first cloned sheep Dolly.=
+- 知识型社会的出现 =the advent of knowledge-based society= 互联网的出现 =the advent of the Internet= 随着第一只克隆羊的出现人类克隆违法自然的讨论加剧 =The discussion on whether the human race can go against nature by cloning themselves has heated with the advent of the first cloned sheep Dolly.=
 
 * Education
-- 遵从环保规定 =comply with environmental regulations= / 遵守社会规范 =conform to social norms= / 从入学第一天起学生就要遵守校规 =On the first day a pupil enters school, he is asked to conform to the school rules.=
-- 没有公司能与中国为敌 =No company can afford to antagonize China.= / 合作融洽 =cooperate in harmony= / 寄宿学校学生学会合作和互让,为以后成功培养人际交往能力 =In a boarding school, students learn to cooperate and compromise, and develop interpersonal skills needed for future successes.= #
-- 学习别人优点 =copy one's good points= / 盲目/机械地照做 =copy things blindly/mechanically= # / 扼杀天才 =kill one's talent= / 其实正相反,压力扼杀创造力 =Quite the opposite/On the contrary, I think pressure stifles creativity.=
-- 消除误解 =correct misapprehension= / 改正过错 =correct one's fault= / 改变印象 =correct impression=
-- 养育孩子 =bring up children= / 提出一个课题 =bring up a subject= / 培养责任感 =cultivate a strong sense of responsibility= / 出国留学开阔视野充实思想培养自立 =Overseas study broadens one's vision, enriches one's mind and cultivates independence.=
-- 违抗母亲 =defy my mother= / 我敢说你不知道答案 =I defy you to come up with an answer= / 挑战权威 =challenge the authority= / 学生认为老师说的不对提出质疑 =Once students think what a teacher says is not correct, they defy him.=
+- 遵从环保规定 =comply with environmental regulations= 遵守社会规范 =conform to social norms= 从入学第一天起学生就要遵守校规 =On the first day a pupil enters school, he is asked to conform to the school rules.=
+- 没有公司能与中国为敌 =No company can afford to antagonize China.= 合作融洽 =cooperate in harmony= 寄宿学校学生学会合作和互让,为以后成功培养人际交往能力 =In a boarding school, students learn to cooperate and compromise, and develop interpersonal skills needed for future successes.= #
+- 学习别人优点 =copy one's good points= 盲目/机械地照做 =copy things blindly/mechanically= # 扼杀天才 =kill one's talent= 其实正相反,压力扼杀创造力 =Quite the opposite/On the contrary, I think pressure stifles creativity.=
+- 消除误解 =correct misapprehension= 改正过错 =correct one's fault= 改变印象 =correct impression=
+- 养育孩子 =bring up children= 提出一个课题 =bring up a subject= 培养责任感 =cultivate a strong sense of responsibility= 出国留学开阔视野充实思想培养自立 =Overseas study broadens one's vision, enriches one's mind and cultivates independence.=
+- 违抗母亲 =defy my mother= 我敢说你不知道答案 =I defy you to come up with an answer= 挑战权威 =challenge the authority= 学生认为老师说的不对提出质疑 =Once students think what a teacher says is not correct, they defy him.=
 - 远程教育和传统教育互补 =Tele-education and traditional classroom teaching complement each other.=
 = 学生应该专心学习,兼职可能会分散注意力 =A student should concentrate his/her attention on academic study and taking a part time job may divert his/her attention.=
-= 他拒绝透露关于那个人的任何消息 =He refused to divulge any information related to/regarding/concerning/involving the man's whereabouts.= / 大学生应该更关心公共事务 =College students should concern themselves more with public affairs.=
+= 他拒绝透露关于那个人的任何消息 =He refused to divulge any information related to/regarding/concerning/involving the man's whereabouts.= 大学生应该更关心公共事务 =College students should concern themselves more with public affairs.=
 
-- 优缺点 =merits and demerits= / 艺术成就 =artistic achievement= / 科学成就 =scientific achievement= / 穿校服提高成绩应该普及 =School uniforms increase attendance and academic achievements, so the practice of wearing uniforms at school should be popularised.= #
+- 优缺点 =merits and demerits= 艺术成就 =artistic achievement= 科学成就 =scientific achievement= 穿校服提高成绩应该普及 =School uniforms increase attendance and academic achievements, so the practice of wearing uniforms at school should be popularised.= #
 
-- 令人讨厌的是 =to one's annoyance= / 担心别人的问题 =fret about everyone else's problems= / 在我背后说闲话让人恼火 =It vexed me to think of others gossiping behind my back.= / =Parents are annoyed with children's addiction to computer games.=
-- 无法避免 =unavoidable= / 必然地 =inevitably= # / 逃避税/问题/目光 =evade paying tax/issue/one's eyes= / 特意回避 =we all shunned him= # / 避免尴尬/误会 =avoid embarrassment/misleading= / 年轻人学会花钱避免浪费 =Young people should learn to spend money carefully and avoid extravagance.= #
+- 令人讨厌的是 =to one's annoyance= 担心别人的问题 =fret about everyone else's problems= 在我背后说闲话让人恼火 =It vexed me to think of others gossiping behind my back.= =Parents are annoyed with children's addiction to computer games.=
+- 无法避免 =unavoidable= 必然地 =inevitably= # 逃避税/问题/目光 =evade paying tax/issue/one's eyes= 特意回避 =we all shunned him= # 避免尴尬/误会 =avoid embarrassment/misleading= 年轻人学会花钱避免浪费 =Young people should learn to spend money carefully and avoid extravagance.= #
 - 不可否认学校该禁烟 =It's undeniable that smoking should be banned in school.=
-- 学术不端 =academic misconduct= / 做实验 =conduct an experiment= / 违法行为 =wrongdoing= / 他表现勇敢 =He behaved with great courage.=
-- 年轻人沉静其中而没有意识到他们有多努力 =The youngsters were so absorbed in it and did not realise how much they are exerting themselves.= / 不要做无用功 =Do not exert yourself unnecessarily.=
+- 学术不端 =academic misconduct= 做实验 =conduct an experiment= 违法行为 =wrongdoing= 他表现勇敢 =He behaved with great courage.=
+- 年轻人沉静其中而没有意识到他们有多努力 =The youngsters were so absorbed in it and did not realise how much they are exerting themselves.= 不要做无用功 =Do not exert yourself unnecessarily.=
 
 * Animal
 - 熊猫和秃鹰被列为濒危物种 =Pandas and bald eagles are classified as endangered species.= #
-- sue complain grumble whine mutter murmur / 邻居家养宠物的人们总是埋怨睡觉被吵醒 =People whose neighbours have pets always complain that their sleep is interrupted at midnight by the pets' noises.=
+- sue complain grumble whine mutter murmur 邻居家养宠物的人们总是埋怨睡觉被吵醒 =People whose neighbours have pets always complain that their sleep is interrupted at midnight by the pets' noises.=
 
-- 年轻人适应新环境的能力 =the adaptability of youth to new surroundings= / 社会适应力 =the adaptability to the society= / 砍伐森林导致动物灭亡 =The deforestation will drive animals without the adaptability to new surroundings into mass extinction.=
-- 请某人援助 =call in one's aid= / 急救 =first aid= / 经济援助 =financial aid= / 国际援助 =international aid= / 与宠物的积极关系有助于建立与他人的信任 =Positive relationships with pets can be an aid in the development of trusting relationships with others.=
-- 禁毒运动 =a campaign against drug abuse= / 竞选活动 =an election campaign= / 参加游行 =join the parade= / 发起运动 =launch a campaign= / 中国越来越多人加入到保护珍稀动物的运动 =More and more people in China have entered the campaign to save rare animals from extinction.=
+- 年轻人适应新环境的能力 =the adaptability of youth to new surroundings= 社会适应力 =the adaptability to the society= 砍伐森林导致动物灭亡 =The deforestation will drive animals without the adaptability to new surroundings into mass extinction.=
+- 请某人援助 =call in one's aid= 急救 =first aid= 经济援助 =financial aid= 国际援助 =international aid= 与宠物的积极关系有助于建立与他人的信任 =Positive relationships with pets can be an aid in the development of trusting relationships with others.=
+- 禁毒运动 =a campaign against drug abuse= 竞选活动 =an election campaign= 参加游行 =join the parade= 发起运动 =launch a campaign= 中国越来越多人加入到保护珍稀动物的运动 =More and more people in China have entered the campaign to save rare animals from extinction.=
 
-- 据说 =assertedly= / 证实观点 =affirm the opinion= / 宣读诗篇 =declaim verse to us= / 宣布你们结为夫妻 =I now pronounce you husband and wife.= # / 这个缺点抵消了本来还算开明的态度 =the weakness negate his otherwise progressive attitude= / 维护权利 =assert one's rights= / 动物保护人士反对为了人类利益虐待动物 =Animal activists assert their opposition to the fact that animals are abused for man's interests.=
+- 据说 =assertedly= 证实观点 =affirm the opinion= 宣读诗篇 =declaim verse to us= 宣布你们结为夫妻 =I now pronounce you husband and wife.= # 这个缺点抵消了本来还算开明的态度 =the weakness negate his otherwise progressive attitude= 维护权利 =assert one's rights= 动物保护人士反对为了人类利益虐待动物 =Animal activists assert their opposition to the fact that animals are abused for man's interests.=
 
 * Rights
 
 * Work & Life
-- 这篇文章除了长之外没什么不好 =The article is long, but not otherwise blameworthy.= / 警告或批评 =to admonish or censure= # / 有争议的政策引来国际批评 =The controversial policy have attracted international censure.= / 谴责侵略,请求宽容 =denounce the invasion and plead for tolerance= # / 把火灾归咎为短路 =They blamed an electric short circuit for the fire yesterday.=
-- 合理的处理方法是清除堵塞物 =The logical treatment is to remove the blockage.= / 人们被困在被封锁的小镇 =People are trapped in the town, which has been blockaded.= / 调查受阻 =the investigation was hindered by= / 汽车自行车停路边严重阻碍交通 =Cars and bikes parked along the streets block the flow of traffic, sometimes leading to serious traffic congestion.= #
+- 这篇文章除了长之外没什么不好 =The article is long, but not otherwise blameworthy.= 警告或批评 =to admonish or censure= # 有争议的政策引来国际批评 =The controversial policy have attracted international censure.= 谴责侵略,请求宽容 =denounce the invasion and plead for tolerance= # 把火灾归咎为短路 =They blamed an electric short circuit for the fire yesterday.=
+- 合理的处理方法是清除堵塞物 =The logical treatment is to remove the blockage.= 人们被困在被封锁的小镇 =People are trapped in the town, which has been blockaded.= 调查受阻 =the investigation was hindered by= 汽车自行车停路边严重阻碍交通 =Cars and bikes parked along the streets block the flow of traffic, sometimes leading to serious traffic congestion.= #
 - 打扰了请问地铁站怎么走 =Sorry to bother you, but can you direct me to the nearest metro station?=
-- 开阔视野 =broaden one's horizon= / 扩大知识面 =broaden one's scope of knowledge= / 开阔眼界 =broaden one's vision= / 旅行开阔心智 =Traveling broadens the mind.= #
-- 传达看法 =convey one's view to= / 开放办公环境使员工自由交流 =An open office environment makes workers communicate directly and freely.=
+- 开阔视野 =broaden one's horizon= 扩大知识面 =broaden one's scope of knowledge= 开阔眼界 =broaden one's vision= 旅行开阔心智 =Traveling broadens the mind.= #
+- 传达看法 =convey one's view to= 开放办公环境使员工自由交流 =An open office environment makes workers communicate directly and freely.=
 - 发展中国家与发达国家竞争世界市场 =Developing countries have to compete with developed countries for the world market.=
 
-- 移民融入社区 =immigrants try to assimilate into the community= / 埋头苦干 =absorption in one's work= / 潜心研究 =absorption in study= / 兼并部落 =absorption of smaller tribes= / 食荤者为了营养吃肉 =As for proponents of meat eating, absorption of nourishment is the major reason for them to have meat.= #
+- 移民融入社区 =immigrants try to assimilate into the community= 埋头苦干 =absorption in one's work= 潜心研究 =absorption in study= 兼并部落 =absorption of smaller tribes= 食荤者为了营养吃肉 =As for proponents of meat eating, absorption of nourishment is the major reason for them to have meat.= #
 - 经济持续下滑 =the economy is continuing to backslide= 不接触同事不了解公司状况阻碍职业发展 =The lack of daily contact with coworkers could take us out of the loop relative to what is going on within the company. This lack of inside knowledge could affect our advancement within the company.=
-- 生态系统崩溃 =breakdown of the ecosystem= / 身体垮掉 =breakdown in heath= / 人际关系紧张,工作压力大,竞争激烈导致白领精神崩溃 =Tense human relationships, heavy pressure from work and life and fierce competition contribute to many white-collar workers' nervous breakdown.= #
+- 生态系统崩溃 =breakdown of the ecosystem= 身体垮掉 =breakdown in heath= 人际关系紧张,工作压力大,竞争激烈导致白领精神崩溃 =Tense human relationships, heavy pressure from work and life and fierce competition contribute to many white-collar workers' nervous breakdown.= #
 
-- 改造房屋 =make alterations to the house= / 改变态度/主意 =alter one's attitude/mind= / 股票价格剧烈变动 =The stock price altered sharply.=
-- 等候某人 =await someone= / 期待某人到来 =anticipate one's arrival= / 预支工资 =anticipate one's income= / 期待广州之行愉快 =We anticipate great pleasure from our visit to Guangzhou.=
-- 适用范围 =applicable scope= / 这个职位有很多申请者 =lots of applicants for this position= / 在读硕士 =a candidate for a Master's degree= / 申请工作 =apply for a job= / 申请会员 =apply for membership= / 理论联系实际 =apply theory to practice= / 勤劳简朴适应于一切事业 =The principle of diligence and frugality applies to all undertakings.=
-- 鄙视某人 =despise someone= # / 欣赏艺术 =appreciate the art= / 欣赏不同文化 =appreciate a difference culture= / 感激某人慷慨大方 =appreciate one's generosity= / 感谢你发的培训小册子 =I shall appreciate it if you could send me some relevant booklets regarding the training programme.=
-- 有父母在国外的儿童在18岁时没有资格接受免费高等教育 =Children who attain the age of 18 whilst a parent is abroad will not be eligible for free higher education.= / 过去几年在跨国公司积累丰富经验 =In the past few year, I've been working for a famous multinational and therefor attained fair knowledge and rich experience in this field.=
-- 服务员 =attendant= / 出席者 =attendee= / 上学 =attend school= / 致力于事业 =attend to one's business= / 政府需要关注老年人需求多建养老院 =The government should attend to the needs of the elderly and more nursing homes should be established.=
-- 补偿...的损失 =compensate someone for the loss= / 不偏不倚的观点 =a balanced point of view= / 最佳生育年龄 =prime child-bearing age= / 职业女性很难平衡工作和家庭 =Many career women find it really hard to balance work and family life.=
+- 改造房屋 =make alterations to the house= 改变态度/主意 =alter one's attitude/mind= 股票价格剧烈变动 =The stock price altered sharply.=
+- 等候某人 =await someone= 期待某人到来 =anticipate one's arrival= 预支工资 =anticipate one's income= 期待广州之行愉快 =We anticipate great pleasure from our visit to Guangzhou.=
+- 适用范围 =applicable scope= 这个职位有很多申请者 =lots of applicants for this position= 在读硕士 =a candidate for a Master's degree= 申请工作 =apply for a job= 申请会员 =apply for membership= 理论联系实际 =apply theory to practice= 勤劳简朴适应于一切事业 =The principle of diligence and frugality applies to all undertakings.=
+- 鄙视某人 =despise someone= # 欣赏艺术 =appreciate the art= 欣赏不同文化 =appreciate a difference culture= 感激某人慷慨大方 =appreciate one's generosity= 感谢你发的培训小册子 =I shall appreciate it if you could send me some relevant booklets regarding the training programme.=
+- 有父母在国外的儿童在18岁时没有资格接受免费高等教育 =Children who attain the age of 18 whilst a parent is abroad will not be eligible for free higher education.= 过去几年在跨国公司积累丰富经验 =In the past few year, I've been working for a famous multinational and therefor attained fair knowledge and rich experience in this field.=
+- 服务员 =attendant= 出席者 =attendee= 上学 =attend school= 致力于事业 =attend to one's business= 政府需要关注老年人需求多建养老院 =The government should attend to the needs of the elderly and more nursing homes should be established.=
+- 补偿...的损失 =compensate someone for the loss= 不偏不倚的观点 =a balanced point of view= 最佳生育年龄 =prime child-bearing age= 职业女性很难平衡工作和家庭 =Many career women find it really hard to balance work and family life.=
 
 * Crime
-- 建设性地讨论 =constructive confrontation= / 面临 =be confronted with= / 把会议提前 =set forward the meeting= / 面对棘手问题提出以下有效措施 =Confronted with such a thorny issue, people set forth the following effective measures.=
-- 断定 =allege something without proof= / 嘴上说说却从不付诸行动 =purport to do something but never act out= / 青少年犯罪值得关注 =Juvenile delinquency is one of the several matters that claims the public attention.=
-- 犯下滔天罪行 =commit a heinous crime= / 凶杀 =commit murder= / 竞争激烈白领自杀数上升 =The number of white-collar workers who commit suicide increases with the increasingly intensive social competition.=
-- 被迫认罪 =be coerced into pleading guilty= / 对零售商强制罚款 =fines are imposed on retailers= / 一部充满恐怖暴力但却引人入胜的电影 =a frighteningly violent yet compelling film= / 酸雨迫使人们呆在屋里 =Acid rain compels people to stay indoors.=
-- 为暴行赎罪 =atone for atrocities it committed= / 光阴一去不复返 =Nothing can compensate for the loss of time.=
+- 建设性地讨论 =constructive confrontation= 面临 =be confronted with= 把会议提前 =set forward the meeting= 面对棘手问题提出以下有效措施 =Confronted with such a thorny issue, people set forth the following effective measures.=
+- 断定 =allege something without proof= 嘴上说说却从不付诸行动 =purport to do something but never act out= 青少年犯罪值得关注 =Juvenile delinquency is one of the several matters that claims the public attention.=
+- 犯下滔天罪行 =commit a heinous crime= 凶杀 =commit murder= 竞争激烈白领自杀数上升 =The number of white-collar workers who commit suicide increases with the increasingly intensive social competition.=
+- 被迫认罪 =be coerced into pleading guilty= 对零售商强制罚款 =fines are imposed on retailers= 一部充满恐怖暴力但却引人入胜的电影 =a frighteningly violent yet compelling film= 酸雨迫使人们呆在屋里 =Acid rain compels people to stay indoors.=
+- 为暴行赎罪 =atone for atrocities it committed= 光阴一去不复返 =Nothing can compensate for the loss of time.=
 
-- 满口脏话 =abusive= / 青少年犯罪 =juvenile delinquency= / 对儿童施虐 =subject a child to abuse= / 滥用药物 =substance abuse= / 滥用特权 =the abuse of privilege= / 运动员服用禁药并不少见 =Abuse of performance-enhancing drugs is not uncommon among athletes.= #
-- 对形势的冷静估计 =a calm appraisal of the situation= / 工作评价 =assessment of work performance= / 损失评估 =damage/loss assessment= / 不充分讨论利弊无法评估毒品合法化必要性 =It's hard to make assessment on the necessity of drug legalisation if merits and demerits are not fully discussed.=
+- 满口脏话 =abusive= 青少年犯罪 =juvenile delinquency= 对儿童施虐 =subject a child to abuse= 滥用药物 =substance abuse= 滥用特权 =the abuse of privilege= 运动员服用禁药并不少见 =Abuse of performance-enhancing drugs is not uncommon among athletes.= #
+- 对形势的冷静估计 =a calm appraisal of the situation= 工作评价 =assessment of work performance= 损失评估 =damage/loss assessment= 不充分讨论利弊无法评估毒品合法化必要性 =It's hard to make assessment on the necessity of drug legalisation if merits and demerits are not fully discussed.=
 
-- 怀疑论者将其归因于生活的不公 =A sceptic may put it down to life inequalities.= / 成功的婚姻归因于魅力,奉献和耐心 =A successful marriage can be ascribed to attraction, devotion and patience.= / 由于 =owing to= / 青少年吸毒归咎于无知和好奇 =We often attribute youth drug abuse to ignorance and curiosity.=
+- 怀疑论者将其归因于生活的不公 =A sceptic may put it down to life inequalities.= 成功的婚姻归因于魅力,奉献和耐心 =A successful marriage can be ascribed to attraction, devotion and patience.= 由于 =owing to= 青少年吸毒归咎于无知和好奇 =We often attribute youth drug abuse to ignorance and curiosity.=
 
 * Health
-- 自相矛盾 =contradict oneself= / 无数研究证明吸烟有害健康 =Numerous research and studies confirm the theory that smoking does harm to health.=
-- 克服坏习惯 =conquer bad habit= # / 现代医学攻克很多疾病 =Modern medical science has conquered many diseases.=
-- 含有污染物 =contain contaminants= / 自控 =contain oneself= / 快餐吃多了有害身体 =Eating too much fast food is physically damaging, for fast foods contain to much sugar, fat and calories.=
+- 自相矛盾 =contradict oneself= 无数研究证明吸烟有害健康 =Numerous research and studies confirm the theory that smoking does harm to health.=
+- 克服坏习惯 =conquer bad habit= # 现代医学攻克很多疾病 =Modern medical science has conquered many diseases.=
+- 含有污染物 =contain contaminants= 自控 =contain oneself= 快餐吃多了有害身体 =Eating too much fast food is physically damaging, for fast foods contain to much sugar, fat and calories.=
 - 过分沉溺于电脑游戏导致近视,肥胖和重复性损伤 =Overindulgence in computer games contributes to myopia, obesity and repetitive stress injuries.=
 - 过早地处于亚健康状态 =be in the state of sub-health prematurely=
-- 解决办法就在政府手中 =The remedy lies in the hands of the government.= / 万灵药 =cure-all= / 身患绝症 =suffering incurable/terminal disease= / 克隆技术帮助治愈遗传疾病使人们过上健康生活 =The cloning technology would help scientists to cure genetic diseases and also other diseases so that people can live longer healthy lives.=
+- 解决办法就在政府手中 =The remedy lies in the hands of the government.= 万灵药 =cure-all= 身患绝症 =suffering incurable/terminal disease= 克隆技术帮助治愈遗传疾病使人们过上健康生活 =The cloning technology would help scientists to cure genetic diseases and also other diseases so that people can live longer healthy lives.=
 
-- 经济失调 =economic ailment= / 微恙 =trifling ailment= / 以肉奶为主的饮食习惯会引发各种慢性病和生理失调 =Meat and dairy centred diets are linked to many types of cancers, as well as chronic diseases such as heart ailments, diabetes, obesity, gallbladder diseases, hypertension, and more deadly diseases and psychological disorder.=
-- 小儿麻痹首篇权威研究报告 =The first authoritative study report of polio was published in 1840.= / 校方 =school authority= / 经...许可 =by the authority of= / 滥用职权 =strain one's authority= / 卫生部门解决城市垃圾问题 =The health authority should take proper measures to deal with the increasingly serious rubbish problem in urban areas.=
+- 经济失调 =economic ailment= 微恙 =trifling ailment= 以肉奶为主的饮食习惯会引发各种慢性病和生理失调 =Meat and dairy centred diets are linked to many types of cancers, as well as chronic diseases such as heart ailments, diabetes, obesity, gallbladder diseases, hypertension, and more deadly diseases and psychological disorder.=
+- 小儿麻痹首篇权威研究报告 =The first authoritative study report of polio was published in 1840.= 校方 =school authority= 经...许可 =by the authority of= 滥用职权 =strain one's authority= 卫生部门解决城市垃圾问题 =The health authority should take proper measures to deal with the increasingly serious rubbish problem in urban areas.=

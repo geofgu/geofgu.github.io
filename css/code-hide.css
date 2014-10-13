@@ -1,6 +1,11 @@
 code {
-    display: none;
+    font-size: 0px;
 }
-li:hover code {
-    display: inline;
+code:after {
+    content: '\00AB';
+    font-size: large;
 }
+code:hover {
+    font-size: medium;
+}
+
