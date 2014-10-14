@@ -1,0 +1,381 @@
+#+AUTHOR: Gu Feng
+#+TITLE: IELTS PRACTICE
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hide.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
+#+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+* Preference
+Finally, I realize that it’s unrealistic to memorize all the vocabularies before start writing. A more practical approach would be to learn how to write during writing. So first thing first, I must start writing right away and write as much as I can. Nonetheless, massive reading is also necessary, because it provide me with materials, without which there would be nothing to write about. Read a lot and collect the words and sentences of beautiful expressions and use them in my own articles. And the last thing to do is repeat, *enjoyably* hopefully.
+
+* Reading
+http://www.bbc.com/future
+http://ielts-simon.com/
+
+** A suggestion letter of a hotel stuff to his manager
+Dear General Manager,
+
+As a staff of Sales Department, I'm very glad to see the rapid development of our hotel. With the coming of New Year, I am writing to you to present my suggestion on the further improvement of our hotel—to establish a website of our own to attract more clients.
+
+Firstly, with the development of Internet, more and more people are willing to go to the outside world through the information on Internet. Thus if we could establish our own website and introduce ourselves on it, more friends, especially foreign friends, could know our latest promotion at home whenever they want. Secondly, according to the statistics of World Hotel Association, 33% of clients made hotel reservation through the Internet last year. And the proportion will largely increase in year 2000. Thus if we could introduce reservation system on our homepage, clients could contact us and make reservation directly. Finally, hotel promotion on Internet could reduce our operation cost greatly.
+
+As someone says that Internet shorten the distance of the world, I believe that the one who could make use of Internet effectively today will be the winner tomorrow. We will get a lot and have a brilliant future.
+
+Yours sincerely,
+...
+
+** A commendatory letter of a reporter to a restaurant manager
+Dear Manager，
+
+I am a reporter from the News Weekend. Because of the demand of my work, I often come to Beijing to do interviews. Your hotel is my favorite, because of the comfortable living conditions, and the considerate service, especially your excellent food.
+
+The restaurants in your hotel have many kinds of delicious food such as Chinese food, Japanese food, French food and so on. Among these delicious foods, I like the Beijing Toast Duck best, not only because of its Chinese characteristics but also its special taste for people from all over the world. So every time I come here I always choose this course.
+
+Furthermore, what impressed me most is the high quality service, it always makes me feel at home. Waiters and waitresses are so kind and warmhearted that they always earnestly recommend every new or special food of the restaurant. I will recommend your hotel and restaurant to my friends without any reservation and hesitation.
+
+Hope your hotel and restaurant will be more prosperous in the future.
+
+Faithfully yours,
+...
+
+** A inquiry letter of a student to her professor to change class
+Dear professor Moss，
+
+I am Sandy Lee, an undergraduate student of the department of Electrical and Computer Engineering. At the beginning of this semester, I registered one of your courses, African Literature and Culture. It is a two-hour course held on every Thursday afternoon. Yesterday, I received a notice from my department that a major course, Computer Principle, would be changed to Thursday afternoon. This major course conspicuously influences my credits and it is every important to me. Unfortunately, I can not study your course this semester.
+
+Because of your reputation and my enthusiasm in literature, I hope I could study this course in next semester. I also heard that another course of yours, China Literature, is held every Friday afternoon. If the registration of this course hasn’t closed yet, I will be so glad to participate in your class.
+
+Sorry to bother you, your help will be greatly appreciated.
+
+Sincerely yours,
+Sandy Lee
+
+** The one who do not know how to use computer become more and more disadvantageous. Show the disadvantages and what action should government take?
+
+Computer plays such an important role nowadays that it undeniably becomes the biggest concern of the present-day world as a whole. With the steady growth in the hi-tech, as well as computer, there is a growing tendency that man who does not know how to use the computer will become an illiterate. As far as I am concerned, there are several major disadvantages for these people.
+
+In the first place, without computer's help, someone may waste a large amount of precious time to pay attention to complex calculation. It is believed that computer can do almost everything. It was gradually used not only in mathematics, physics, chemistry and astronomy, but in places like library hospital and military army to replace the works of man. Besides, a computer works much faster and more accurately than man. Therefore, one who cannot use the computer always fails to keep up with the development of modern society.
+
+In addition, these kinds of people may lose opportunities that make new friends or contact with outside world and new technology. It is very clear that lots of changes have taken place in many aspects of people's lives because of the coming of the computer era. Multi-media and surfing on-line provide people with chances to learn more about the world and up-dated information. Moreover, sending E-mail seems to be the most convenient and efficient way to communicate with families, relatives and best friends. Unfortunately all above will never happen in the life of the layman.
+
+In order to let everyone know about the computer skills, government should set forth solutions to eliminate the number of these kinds of illiterates. First and foremost, it is suggested to open more free related training classes, which can encourage people to cultivate the interesting of using computers. What's more, it is stylish to advertise the benefits to learn the computer.
+
+All in all, the future for the computer is very promising. We hardly imagine what our world would be like without the computers.
+
+(334 words)
+
+** A balanced diet, or eating balanced meals, is the key to a healthy life. To what extent do you agree or disagree with this statement? Give reasons for your answer.
+
+Although a balanced diet is important, there are other factors which contribute to a healthy life. People in some cultures do not eat a balanced diet, but use limited food sources. In addition, lack of stress could well be as important as diet.
+
+One culture-related reason concerns environmental or climatic conditions. The Inuit, in the Arctic Circle, live in harsh surroundings and their major source of food for many months of the year is fish. Nutritionists in industrialized countries would not consider their diet balanced or even healthy, yet Inuit people have flourished in food from the sea for centuries. Another cultural reason is religion-based. Many Hindus are vegetarians because of their religion. Again, many dieticians claim that vegetarianism is unbalanced because humans need protein, especially from animals. Hindus, however, seem to be quite healthy, suffering no ill effects from the lack of animal protein.
+
+The major reason for disagreeing with the balanced diet argument, however, is to do with stress. Even though people in the past did not always have a balanced diet, something existing only on potatoes and bread, they lived healthy lives because there afflicts urban residents today. Secondly, there is a large percentage of contemporary people who do their jobs, then relax in front of the TV, and quite often eat junk food. But seem healthy enough. They may be spared disease by their relatively stress-free lives.
+
+In conclusion, although it is undeniable that a balanced diet is of some importance to health, there are no doubt more factors that may get involved in affecting people’s health in terms of living environment, climate and stress in them.
+
+** The gap of living in cities and the countryside is larger and larger. What are the reasons in your country and how to reduce the differences?
+
+As the step of economic development accelerates, the gap between the city and the countryside becomes more and more overt, which arouses colossal concerns. Take a further look at the phenomenon, there are three major causes.
+
+ Firstly, the insufficiency of investment in the rural areas accounts mainly for the issue. China, for example, covers a very large area. Due to the emphasis on the development in the coastal areas, the government devotes more investment in the large cities, such as Shanghai, Beijing and Guangzhou. The investment, undoubtedly, is repaid by the threefold increase of economy and commerce in these cities. However, this is not the case in the rural areas and the western regions. The lack of investment barriers the productivity and economic development and sharpens the gap between the city and the countryside.
+
+Secondly, the low education level in the rural areas contributes partly to the gap of living. Education is the prime force of productivity. Keeping this in mind, many countries and governments give priority to the development of education. China’s education witnessed a rapid growth in the past decade. However, the education level in the countryside still keeps very low. The enrollment of primary schools and secondary schools is much lower compared with the advanced regions, not to mention the developed countries in the world. Without good education, the development of economy and technology would be a dream difficult to be realized.
+
+Finally, the influx of migrant workers to the cities from the countryside deteriorates the undeveloped condition in the rural areas. The life style. in the urban areas is very attractive to the people in the countryside. To seek more working opportunities, many people abandon the fertile lands and leave them uncultivated. If the situation continues, it will lead to serious unbalance of economic and regional development.
+
+To sum up, only when the government renders more concerns over the issue can the gap between the cities and the countryside be bridged.
+
+** Some people prefer to stay in the same job for the same company, but others prefer to change jobs frequently. You should use specific reasons to compare the advantages and disadvantages of both sides.
+
+Very few people intend to go in for a life-time career. Still there are some advantages to doing so.
+
+Merits of always taking a position can be examined by three aspects. First, if you stick at taking a post, all angles of the job will have appeared; after some time, you will definitely have a good command of it. Consequently you may become a veteran of the field and earn respect or prestige from others. Second, you can establish an extensive social connections relating to the field, helping you tear down most of the barriers standing in the way of your working endeavor. Finally, mistakes of the routine tasks would be minimized because you have learned the lessons.
+
+On the other hand, I would like to illustrate the advantages of experiencing different jobs. Initially, we look at the issue of bribery. Many high-level staffs are inclined to accept bribes via power in hand. However, if he knows that someone else will soon take his place, such acts can be avoided. We then look at work motivation. If one works for the same company for a long time without promotion, he may get sick and tired of doing the same daily routine. Nonetheless, a manager should have qualities of a sense of teamwork and the capability of coordination. Therefore, to try various positions can help you gain ground to be promoted.
+
+In summary, staying in the same post can cultivate one to cut out for the job but involve one in a boring career while changing jobs frequently can be both advantageous by keeping bribery away and providing one with more opportunities of promotion and disadvantageous by making mistakes occasionally. In my opinion, people should seek a decent and good-paid job and pay little attention to changing it.
+
+** Young children should stay in Kindergarten or nursery schools so that their mothers can return to work earlier.  Do you agree or disagree with the opinion?
+
+In the past, mothers usually stayed with children when they were young. However, nowadays with more and more competition in society, mothers are deprived of most of the mothers’ rights. Therefore, kindergarten takes the job sharing mothers’ jobs. Someone believes that staying in kindergarten could be a wise choice for the present parents. However, the others doubt. I prefer to children’s studying in kindergarten. The reasons are as follows.
+
+First of al, it’s obvious that kindergartens can offer children more systematic education than household teaching. The teachers have been well trained of children caring. The kindergarten provides not only good teaching facilities but friendly and harmonious studying environment where kids can play together and learn how to co-operate in a team.
+
+Secondly, as children’s parents have to make a living, they probably have no choice but to work continually with no opportunity to study, which leads to no time spent on children caring. As a consequence, to leave children in kindergarten must be a mutual way for both parents and their children.
+
+Last but not least, to reduce financial burden of the family, mother had better return to work as soon as possible for the cost of raising children and footing the bill of any consumption. That’s why so many young couples don’t choose to have children earlier. It is a fact every couple has to face and try figuring out the proper way to solve it.
+
+In a word, I do support that young children should stay in kindergarten. And parents should return to work earlier. It is not only good for parents but children as well.
+
+** Charity organizations should give aid to people in the greatest need, wherever they are from, or help people in their own countries. Discuss both views and give your opinion.
+Opponents of charity organizations only giving aid domestically, however, contend the assistance should be open to people in need no matter where they are from. To start with, it is the functionality of charity organizations to render help to those who are in great need, regardless of their nationalities. Otherwise, it may be considered as going breach of the purposes they are established for. What is more, not only can international charity assistance enhance the friendship of two nations, but also help eliminate the conflicts and misunderstandings, thereby stimulating the cultural exchanges between countries. (94words)
+
+** Some people think that foreign tourists abroad should be charged more than local people to visit a country’s cultural and historical attractions. To what extent do you agree or disagree?
+The reason that I oppose to the above view is the unfairness and inequality this proposal may conduce to. As is known to all, historic attractions are owned by all human beings and should be shared by people from all over the world equally and without discrimination. Once this proposal being implemented, an unfavorable impression of this country would be formed in no time. There is a fear that foreign travelers may never come again. Neither do their friends nor those who gain this negative information. And this will inevitably lead to a vicious circle. (95words)
+
+A lot of innovations are made with the aim of making money for a few. This is because it is the rich and powerful people in our society who are able to impose 搜索changes (such as in working conditions or property developments) that are in their own interests. (第二句为解释论证)(《剑6》Test 4)My view is that young people should be encouraged to broaden their horizons. That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why. (第二句为延伸论证) (《剑5》Test 2)To do this, we need to improve the choice of public transport services available to travelers. For example, if sufficient sky train and underground train systems were built and effectively maintained in our major cities, then traffic on the roads would be dramatically reduced.(第二句为举例论证)(《剑8》Test 3)The reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world. By contrast, those who have spent some time earning a living or traveling to other places, have a broader view of life and better personal resources to draw on. (第二句为对比论证)(《剑5》Test 2)
+
+* Writing
+1  Some people think that it is more important for a building to serve a purpose than to look beautiful. To what extent do you agree or disagree?
+ 
+2  Some people believe that male and female students should go to separate schools, while others think that co-educational schools can help young people develop better social skills. Discuss both these views and give your own opinion.
+ 
+3  Once children start school, teachers have more influence than parents on their intellectual and social development. To what extent do you agree or disagree?
+ 
+4  Schools should only offer subjects that are beneficial to students’ future career success. Other subjects, such as music and sports, are not important. To what extent do you agree or disagree?
+ 
+5  Some people think that history should be a compulsory part of the school curriculum. Do you agree or disagree?
+ 
+6  Distance education delivered over the Internet or television has more advantages than classroom-based education. Do you agree or disagree?
+ 
+7  Today, more and more people use mobile phones. To what extent do you think the benefits of mobile phones outweigh the drawbacks?
+ 
+8  The news media and the advertising industry are having greater influence on people’s opinions than in the past. Why is this the case? Is this a positive or negative development?
+ 
+9  Cheap air travel is increasingly popular in the world today. To what extent do you think the advantages of this outweigh the disadvantages?
+ 
+10  International travel makes people more prejudiced rather than more broad-minded. Do you agree or disagree?
+ 
+11  As global trade increases, many goods are exported to other countries. Such goods are usually transported over long distances. Do the benefits of this outweigh the drawbacks?
+ 
+12  Some people think that the only purpose of prison is to punish criminals. Do you agree or disagree?
+ 
+13  Some countries have introduced laws to limit the working hours of employees. Why do you think such laws have been introduced? Is this a positive or negative change?
+ 
+14  Some people think that economic progress is the only way to measure a country's success. Others, however, believe that other factors should also be considered. Discuss both these views and give your own opinion.
+ 
+15  Some people believe that governments should give financial support to artists such as film-makers, musicians and painters. Others, however, argue that artists should be funded by other sources. Discuss both these views and give your own opinion.
+ 
+16  Staying healthy by participating in sports and eating well should be an individual’s duty to society rather than a habit for personal benefits. Do you agree or disagree?
+ 
+17  Individuals cannot do anything to improve the environment. Only governments and large companies can make a difference. To what extent do you agree or disagree?
+ 
+18  More and more people are moving from rural areas to cities in search of a better life, but city life has its own problems. What are these problems? Suggest some solutions.
+ 
+19  Some people think that it is acceptable to use animals for the benefit of humans. Others, however, think that it is wrong to exploit animals for human purposes. Discuss both these views and give your own opinion.
+ 
+20  Some people think that new developments in agriculture, such as factory farming and creations of new types of vegetables, have brought more benefits than problems. Do you agree or disagree?
+
+1  In some countries, the proportion of people aged 15 or younger is increasing. What effects will this trend have on these countries?
+
+
+2  Mobile phones and the Internet are useful tools. However, not many elderly people use them. In what ways can mobile phones and the Internet be useful to elderly people? How can elderly people be encouraged to use them?
+
+
+3  Distance education delivered over the Internet or television has more advantages than classroom-based education. Do you agree or disagree?
+
+
+4  Schools should only offer subjects that are beneficial to students’ future career success. To what extent do you agree or disagree?
+
+
+5  Some people think that students should study in groups. Others, however, argue that students should study alone. Discuss both these views and give your own opinion.
+
+
+6  Universities should accept equal numbers of male and female students in every subject. Do you agree or disagree?
+
+
+7  Some people think that children should obey rules. Others, however, believe that children who are controlled too much by their parents and teachers will not be well prepared for their adult life. Discuss both these views and give your own opinion.
+
+
+8  Students from rural areas often find it difficult to access university education. Some people think that universities should make it easier for them to access higher education. To what extent do you agree or disagree?
+
+
+9  More and more people are moving from rural areas to cities in search of a better life, but city life has its own problems. What are these problems? Suggest some solutions.
+
+
+10  In modern cities, urban planners tend to place shops, schools, offices, and homes in specific areas. To what extent do you think the advantages of this outweigh the disadvantages?
+
+
+11  The government should pay for people’s education and health care. To what extent do you agree or disagree?
+
+
+12  Some people believe that governments should give financial support to artists such as film-makers, musicians and painters. Others, however, argue that artists should be funded by other sources. Discuss both these views and give your own opinion.
+
+
+13  As the number of cars increases, more money has to be spent on the road systems. Some people think that governments should be responsible for the costs. Others, however, argue that car users should pay for the costs. Discuss both these views and give your own opinion.
+
+
+14  A long-distance flight consumes the same amount of fuel and causes the same amount of pollution as a car does in several years' time. Some people think that to reduce environmental problems, we should discourage non-essential flights instead of limiting the use of cars. Do you agree or disagree?
+
+
+15  Some people believe that only the fittest and strongest individuals and teams can succeed in sports. Others think that success in sports depends on mental attitudes. Discuss both these views and give your own opinion.
+
+
+16  Some people believe that international co-operation has many benefits for environmental protection, while others argue that it has more benefits for international business and tourism. Discuss both these views and give your own opinion.
+
+
+17  In some countries, charities have set up some special days, such as National Children’s Day and National Anti-Smoking Day. What are the purposes of these special days? Are they effective?
+
+
+18  Detailed descriptions of crimes in the media should be strictly controlled. To what extent do you agree or disagree?
+
+
+19  Some people believe that new developments in agriculture, such as factory farming and creations of new types of vegetables, have brought more benefits than problems. Do you agree or disagree?
+
+
+20  Animal experiments have been used to develop new medicines and to test the safety of many other products. Some people think that these experiments should be banned. To what extent do you agree or disagree?
+
+
+* Speaking
+** PART 1
+*** Do you live in a house or a flat?
+I live in a rented flat now, with my family.
+
+*** Have you ever considered moving to another place?
+Yes. Actually we have bought a condo not far from my work, which is still under construction right now and will be available next summer. We call this a presale, it is very common in China. And now everyday we are all looking forward to moving to our new home next year.
+
+*** Which is your favourite room in your flat?
+Well, I think it's definitely my bedroom. Since we don't have a study, we put our desk in the bedroom, and there is also a closet and a double bed, so it may feel a little cramped, but it's multi-functional and very cozy. I spend most of the time in my bedroom.
+
+*** Do you like your neighbours?
+Not really I'm afraid. We barely know each other. At first it's really annoying that they often make an awful lot of noise. You see, the walls are not that thick as you may think. However, we've managed to ignore them now.
+
+*** Do you think bicycles will become more popular in the future?
+Yes, I think so, not only because they are still one of the main transports in China, but also because cycling is really a good form of exercise and it's eco-friendly too. I own a car, but I prefer to ride my bicycle to work as long as the weather permits.
+
+In some way, cycling is more convenient and safer than driving if you consider the traffic jam, lack of parking places and car accidents. Also more economical for cars cost a lot in fuel, *maintenance* and parking fee.
+
+*** Would you say it is difficult to learn to ride a bicycle?
+No, not at all. I think it's rather fun and exciting. My dad taught me how to ride a bicycle and it's really funny that you know he was lying when he was holding your back and promised not to let it go.
+
+*** Have you ever traveled by train?
+At least once a year. I always go back to my hometown by train to be with my parents on spring festivals. We like trains, it's like the Chinese have a thing for trains. China has an extensive railway network and a *variety* of trains, express, fast train, tourist train and now we have high-speed train which can reach up to 300 miles per hour. Really convenient and economical.
+
+*** Do you like traveling by car?
+Yes, I prefer car to bus or train because I think it's most comfortable. I can head out whenever I want, not limited by going to stations and wait as when I'm using public transport. And most importantly, I have privacy in my car, not have to sit with strangers, which really makes me feel restricted.
+
+However, when I'm driving, I need to be attentive all the time, because there are so many reckless drivers out there and careless pedestrian coming out of nowhere.
+
+*** Do you think handwriting is still an important skill today?
+
+*** Is your handwriting easy to read?
+
+*** What are the most important qualities of a good teacher?
+
+*** Do you like your teachers?
+*** Do you often use maps when traveling? Which do you think are more useful - electronic maps or paper maps?
+*** Do you think gardens and parks are important to cities? Do you like being close to nature?
+*** Do you prefer to write letters or emails? What do you use your mobile phone for?
+*** How do you get news these days?
+*** Do you think the TV shows today are different from the TV shows you watched as a child?
+*** What kinds of advertisements are popular in China? Do you often buy advertised products? Have you ever felt annoyed by an ad?
+*** Do you want to learn another language? How are you going to learn it?
+*** What do you do to relax? Does playing outdoor sports help you relax? Why? Do vacations help you relax?
+*** What do you do in your spare time?
+*** What do you usually do at weekends? Which day is your busiest day of the week?
+*** Do you think there should be more public holidays?
+*** Do you concentrate better in the morning or in the evening? How can you improve your concentration?
+*** What's your favorite kind of food? Do you like fast food? What was your favorite food as a child?
+*** Who cooks in your family? Do you want to take cooking classes? Are cooking shows popular in China? Do you think children should learn how to cook?
+*** Do you think children should help with household chores?
+*** What’s your favourite type of shoes? Is it more important for shoes to look good or to feel comfortable? Have you ever bought shoes online?
+*** What’s your favourite kind of clothing? What kind of clothing do you wear for parties? Do you often help your friends shop for clothing?
+*** What are the differences between street markets and supermarkets?
+*** Do you have many friends? Is having many friends an advantage? How did you meet your best friend?
+*** Do you like going to parties? Why? What do you dislike about parties?
+*** Which birthday left you with the deepest impression? Did you receive any gifts for that birthday? Do you prefer to celebrate your birthday with your family members or your friends?
+*** Do you like taking photos? Do you like to take photos outdoors or indoors? Do you prefer to take photos with your camera or with your mobile phone?
+*** What’re your favourite colours? Why you like them?
+*** Do you like art? Do you often visit museums and art galleries? Do you think they should offer free admission to visitors?
+*** What’s your favourite kind of music? Do you play any instruments?
+*** What’s your favourite season? Does your city have four distinct seasons?
+*** What games did you like to play when you were a child? What games do children play these days?
+
+** PART 2
+
+* Reference
+** Writing
+IELTS General writing model essays 雅思G类范文大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176521 
+齐辙：雅思写作高分攻略 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176499 请问大虾上转的
+IELTS writting model essays 雅思范文大全 是什么来头?是Native Speaker写的吗? http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176242 
+胡敏教你冲刺雅思满分作文 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175993 
+雅思写作高分七大原则 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175946 
+IELTS Academic writing model essays 雅思A类范文大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175771 
+齐辙：雅思写作常用插入语总结 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175658 
+真正的英语母语国家作者写的雅思作文教材 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175183 
+雅思9分范文：汽油价格和控制交通污染 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175164 
+雅思9分范文：关于大学教育 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175163 
+基础差的同学如何在三个月内雅思写作到六分 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175141 
+慎小嶷43个雅思原创高分段落外教朗读版 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174982 
+慎小嶷全真版本写作训练班专用教材 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174980 
+雅思段落扩展的几种常见方式 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174151 
+中国雅思考生写作误区 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174147 
+好作文这样炼成：雅思写作自检10项原则 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174137 
+雅思写作高分9条制胜法宝 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=174125 
+齐辙：雅思写作常用句型 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173585 
+2007全年雅思A类写作真题来源探究 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173575 
+慎小嶷：《十天突破雅思写作》PDF+MP3 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173528 
+IELTS写作常用的关联词 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173057 
+杨凡：雅思写作高分十大理由 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173056 
+战胜雅思考生写作软肋 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173051 
+周骁：雅思写作从平庸到精典 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173026 
+慎小嶷：10天攻克雅思写作(新书访谈) http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=173024 
+雅思写作高分指南：例题详解开头多样化句式 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172984 
+雅思考试必须掌握的十大类关联词 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172977 
+增强语句表现力的五张王牌 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172969 
+雅思高分作文必备八要素 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172959 
+杨凡：《雅思真题高频词汇——写作》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172866 
+吴建业：《雅思写作词汇小伴侣》(第2版)PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=172232 
+环球雅思教材全新版：《组合式作文》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170644 
+吴建业：《雅思写作应试技法》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170639 
+杨凡：《雅思真题详解丛书之写作》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170619 
+雅思写作点睛之笔100句 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170088 
+雅思作文找观点的几点常用原则 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170082 
+组合式句子在写作中的综合运用 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170080 
+35个经典句型帮你写作过关 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170077 
+雅思写作考试不同类型作文评分标准 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170068 
+如何分配Task1与Task2的写作时间 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170063 
+雅思写作高分必读：小作文句子模版总结 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=170061
+胡敏雅思教材第5代：《全新版雅思考试高分作文》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=169881 
+北京新航道2008教材：《雅思写作(基础版)》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=169826 
+吴建业：如何利用例证拓展段落 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=169626 
+吴建业2007年写作精讲课堂讲稿 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=169625 
+Writing Skills for the IELTS Test http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=169180 
+刘洪波：《雅思写作经典教程》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167467 
+刘洪波：《雅思写作真经》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167465 
+杨凡：《最新雅思写作胜经——模板作文法》(2008版)PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167462 
+齐辙：《雅思考前最后一本书——写作》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167460 
+王陆：《807雅思词汇精讲——写作篇》PDF+MP3 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167455 
+雅思作文必须注意的英汉表述十大区别 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167433 
+雅思写作实用片语500条 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167428 
+雅思写作九大攻略 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167427 
+22个雅思命题写作思路 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167419 
+雅思写作讲座——张驰新 PPT课件 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167088 
+孙肇春雅思8分作文解决方案 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=167086 
+《雅思8分万能作文》网上唯一完全版PDF下载 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=166961 
+IELTS套句式写作大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=166466 
+雅思大作文常见论点总结 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=161356 
+雅思写作点津 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=161285 
+雅思写作中的英汉表达差异 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=161284 
+胡敏最新IELTS考试高分作文语音版 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=159846 
+江涛：《80天攻克雅思写作》(第二版)PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=157785 
+IELTS考试技能训练教程写作 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=154315 
+胡敏雅思作文视频讲座全13讲 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=153496 
+吴建业--最新IELTS考试快速突破·写作(第二版) http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=152950 
+《IELTS填空式作文法》PDF http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=152681 
+雅思高分写作64个精选句型特别推荐 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=152131 
+雅思G类写作标准范文 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=152078 
+雅思流程图常用词句总结 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=152011 
+美国老师的雅思作文范文赏析 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151921 
+雅思写作绝招--主体段落三大杀手锏 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151633 
+雅思写作经典错误与分析 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151631 
+雅思G类书信常用词汇句型 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151392 
+雅思大作文首段三要素 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151386 
+雅思写作套句精选50句 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=151385 
+452条雅思写作必备句型 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=150925 
+雅思必背的长句100句（带分析版） http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=150292 
+灵活运用语序基本公式 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=148486 
+万能句子和同义词的使用 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=147863 
+名师指导 雅思大作文首尾段基本要素 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=147449 
+雅思考试图表作文例析 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=146847 
+雅思常考作文及范文汇总 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=146790 
+雅思考试学术类Task1高分写作应试 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=122752 
+雅思写作常见结构 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=77082 
+雅思写作的基本句式 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=9891 
+雅思考试写作部分词汇匮乏等典型问题分析 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5197 
+雅思写作必背200句 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5186 
+雅思考试移民G类作文大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5175 
+雅思考试35个基础作文汇总 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5171 
+雅思考试TASK图表写作套句精选50句 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5172 
+雅思作文常用谚语 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5018 
+雅思写作精彩范句大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=5016
