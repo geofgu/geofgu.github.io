@@ -1,5 +1,6 @@
 code {
     font-size: 0px;
+    /*word-break: break-all;*/
 }
 code:after {
     content: '\00AB';
@@ -8,4 +9,3 @@ code:after {
 code:hover {
     font-size: medium;
 }
-
