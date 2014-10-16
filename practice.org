@@ -7,6 +7,8 @@
 * Preference
 Finally, I realize that it’s unrealistic to memorize all the vocabularies before start writing. A more practical approach would be to learn how to write during writing. So first thing first, I must start writing right away and write as much as I can. Nonetheless, massive reading is also necessary, because it provide me with materials, without which there would be nothing to write about. Read a lot and collect the words and sentences of beautiful expressions and use them in my own articles. And the last thing to do is repeat, *enjoyably* hopefully.
 
+Every word in IELTS essay is the result of hours or days of preparation.
+
 * Reading
 http://www.bbc.com/future
 http://ielts-simon.com/
@@ -115,9 +117,49 @@ The reason that I oppose to the above view is the unfairness and inequality this
 
 A lot of innovations are made with the aim of making money for a few. This is because it is the rich and powerful people in our society who are able to impose 搜索changes (such as in working conditions or property developments) that are in their own interests. (第二句为解释论证)(《剑6》Test 4)My view is that young people should be encouraged to broaden their horizons. That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why. (第二句为延伸论证) (《剑5》Test 2)To do this, we need to improve the choice of public transport services available to travelers. For example, if sufficient sky train and underground train systems were built and effectively maintained in our major cities, then traffic on the roads would be dramatically reduced.(第二句为举例论证)(《剑8》Test 3)The reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world. By contrast, those who have spent some time earning a living or traveling to other places, have a broader view of life and better personal resources to draw on. (第二句为对比论证)(《剑5》Test 2)
 
+** Today, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold. To what extent do you agree or disagree?
+
+(7.5)
+Nowadays, there are lots of advertisements on television or on the streets. Some people think that the *advertising boosts the sales of goods* and it encourages people to buy things unnecessarily. This arguments may be true. In my country, many advertising companies produce advertisements with famous and popular actors or singers. People, especially youngsters, buy goods that their favourite singer advertise, although they do not really need the products.
+  Also, on the television screen, a product may look gorgeous and good quality. As a result of it, people often buy goods without enough consideration. Consumers may not actually need it but they *buy goods impulsively* soon after they watch the advertising. Furthermore, as many customers buy a particular product due to its advertising campaign, the other people may be affected by the trend, even if the product is not of the real needs of the society.
+  On the other hand, there are various aspects against these arguments. Moreover, it is people’s choice to make a decision to buy goods. Advertising may be not a cause of customers’ buying habits. Individuals have their own spending habits. If they have got enough disposable income, then the right to make a decision is given to them. No one actually can judge whether the goods sold are the real needs of the society or not.
+  In addition, as there should be a limited amount of disposable income consumers are able to spend, people try to allocate their budgets. They cannot be simply swayed by those advertisements.
+  In conclusion, as customers have their own strong opinions and standard of good quality goods, it is better to leave them to make their own decision in buy goods. It is fairly difficult to say everyone is swayed by advertising and buy good impulsively. However, in advertising to those children as children have not got enough ability to control themselves or to know what they need.
+
+(9)
+Nowadays, it is common to see advertisements on television or on billboards in the streets. Some people think that advertising *boosts the sales of goods* and *encourages* people to buy things they do not necessarily need. This argument contains some truth. In my country, advertising companies often produce advertisements featuring popular actors or singers to *induce* people, especially youngsters, to acquire goods which their favourite actor or singer seems to *endorse*, whether they need the products or not.
+  On the one hand, on the television screen a product is always made to *look attractive* and *of good quality*. As a result, people often purchase such goods *upon impulse*. Furthermore, as the number of consumers of a particular product increases *under the impact of a persistent advertising campaign*, others may be *drawn into the trend*, creating a large market for products which do not satisfy the real needs of society.
+  On the other hand, there are *various counterarguments to these objections*: *The decision to make a purchase is a matter of personal choice*. Advertising may not be *the main cause of consumption habits*. *Individuals have their own preferences*, and if they have enough *disposable income* it is *entirely up to them* how they use it. Also, *it is doubtful if anyone can have the authority to judge whether* goods for sale are really needed by society or not. Finally, as there is always only a limited amount of disposable income for anyone, people try to manage their budgets as best as they can. Advertising can seldom persuade people to spend money that they need for more urgent things, or to spend money that they do not have (for instance, by *buying in installments*).
+  In conclusion, as buyers have their own strong opinions and views on what constitutes good quality and on what they need and do not need, it is better to leave them to make their own decisions. It is difficult to claim that everyone is swayed by advertising and always makes purchases impulsively. However, it is a good idea to put restraints on advertising aimed at children and inexperienced youngsters. Otherwise, they might be persuaded to buy goods that they do not need, or to spend money that they do not have!
+
 * Writing
-1  Some people think that it is more important for a building to serve a purpose than to look beautiful. To what extent do you agree or disagree?
- 
+** Some people think that it is more important for a building to serve a purpose than to look beautiful. To what extent do you agree or disagree?
+
+Admittedly, usability is often considered to be the essence of a building. In my opinion, however, the appearance of a building is not less important than its functionality.
+
+It is probably true that when an architect designs a building, the first thing on his mind is the requirements from users' perspective. An apartment building or a hotel, for example, needs to make people who live in it feel comfortable and convenient maybe by providing heating and cooling or *garbage* disposal infrastructures; whereas as for office buildings, well-organised layout of the workspace and energy efficiency considerations will be first priority, for these factors have direct impact on the productivity of the office workers and the overall operating and maintenance cost of the company.
+
+Meanwhile, the *exterior* of buildings is also important, and even more so in nowadays, because people today are no longer satisfied with only the basic functions of a building but will appreciate more about the aesthetic value and the atmosphere it has. Moreover, it is important that a building's form, architectural style and detailing fit in and make a positive contribution to its surroundings, which can enhance the cultural character of the district and attract more residents and business; otherwise it may look odd and even impair the desirability of residence and occupation in the whole area.
+
+To sum up, buildings are supposed to serve their functions and should be made more useful. However, the 
+
+
+Refs:
+http://www.wbdg.org/design/office.php
+http://www.southoxon.gov.uk/sites/default/files/assets/web%20final%20Section%205%20Building%20design.pdf
+http://www.wbdg.org/
+http://www.wbdg.org/design/aesthetics.php
+http://www.lexsc.com/documents/pbt/Architectural%20and%20Appearance%20Standards%20Manual.pdf
+
+Improving the appearance and functionality of a building supports local businesses and can havea significant impact on the attractiveness, security, and marketability of the commercial corridor. The following guidelines are intended to be flexible to encourage creative building design while encouraging pedestrian visits, and preserving distinctive materials and architectural features inherent in the corridor’s character and style.
+
+
+
+City dwellers are surrounded by various kinds of buildings with different functionalities and appearences. Some people consider the good look of a building is secondary to its usage. As far I am concerned, I believe the beauty and atmosphere of a building is at least equally importance as its accomodation purpose.
+
+
+On the other hand, we can not ignore the importance of the appearance of a building, quite the opposite in fact. More so if the building is more utilized. Because core buildings have more visitors, 
+
 2  Some people believe that male and female students should go to separate schools, while others think that co-educational schools can help young people develop better social skills. Discuss both these views and give your own opinion.
  
 3  Once children start school, teachers have more influence than parents on their intellectual and social development. To what extent do you agree or disagree?
@@ -215,7 +257,6 @@ A lot of innovations are made with the aim of making money for a few. This is be
 
 20  Animal experiments have been used to develop new medicines and to test the safety of many other products. Some people think that these experiments should be banned. To what extent do you agree or disagree?
 
-
 * Speaking
 ** PART 1
 *** Do you live in a house or a flat?
@@ -286,8 +327,7 @@ However, when I'm driving, I need to be attentive all the time, because there ar
 * Reference
 ** Writing
 IELTS General writing model essays 雅思G类范文大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176521 
-齐辙：雅思写作高分攻略 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176499 请问大虾上转的
-IELTS writting model essays 雅思范文大全 是什么来头?是Native Speaker写的吗? http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176242 
+齐辙：雅思写作高分攻略 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=176499
 胡敏教你冲刺雅思满分作文 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175993 
 雅思写作高分七大原则 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175946 
 IELTS Academic writing model essays 雅思A类范文大全 http://bbs.topsage.com/dispbbs.asp?boardID=63&ID=175771 

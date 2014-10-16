@@ -10,14 +10,14 @@
 
 - 一项科学突破 =a scientific breakthrough= 在...方面取得重大突破 =make a great breakthrough in= 依靠无线技术发达国家实现远程教育 =Based on wireless technology, developed countries have realised the breakthrough of providing long distance education for children in remote areas.=
 
-- 减速 =Continuing violence will retard the negotiations over the country's future.= 促进国际交流 =accelerate international exchange= 社会发展 =accelerate social development= 互联网加速信息传播 =The advent of the Internet has accelerated the flow of information.=
+- 持续暴力使谈判进程减速 =Continuing violence will retard the negotiations over the country's future.= 促进国际交流 =accelerate international exchange= 社会发展 =accelerate social development= 互联网加速信息传播 =The advent of the Internet has accelerated the flow of information.=
 - 宇航员圆满完成任务 =The astronaut has accomplished the mission successfully.=
 - 贪婪的社会 =acquisitive society= 所得 =acquisition= 获得学位 =acquire degree= 成年人需要学习电脑 =With the application of computers, many adults feel the pressing need of acquiring computer literacy.=
 
-* Environment
+* Environment :MY1
 - 穿着保守 =conservatively dressed= 人们年轻时开放年纪大后保守 =People tend to be more liberal when they are young and become more conservative as they get older.= 保护文化遗产 =conserve cultural treasures= 保护自然资源 =conserve natural resources= 为后代保护林地 =We must conserve our woodlands for future generations.=
 - 耗时的 =time-consuming= 消耗能量 =consume energy= 过度消费导致严重赤字 =excessive consumption resulted in heavy trade deficit= 粗放灌溉消耗宝贵水资源 =Extensive irrigation consumes our scarce freshwater resources.=
-- 有效防范,控制人口增长,减轻环境压力 =with effective precautions, control population growth and alleviate environmental pressures= #
+- 有效防范能够控制人口增长减轻环境压力 =Effective precautions can help the control population growth and alleviate environmental pressures= #
 - 耕地 =cultivatable land= 把耕地作为开发区的政策受到严厉批评被视为不环保 =The policies of turning tillable fields into development zones have been severely criticized and regarded as environmentally unfriendly/environment-unfriendly.= #
 
 - 促进当地旅游业 =boost local tourism= 促进当地第三产业 =boost local tertiary industry= 政府应多办活动促进环保意识 =More public activities should be sponsored by the government to boost the public awareness of environmental protection.=
@@ -32,7 +32,7 @@
 
 - 占据统治地位 =achieve dominance over the region= 获得地位 =achieve status= 政府努力实现资源可持续发展 =Governments should endeavour to achieve sustainable development of resources.=
 
-* Culture
+* Culture :MY2
 - 相互协调 =harmonize with each other= 发展得当的话旅游业与保护古建筑不矛盾 =Carried out in the right way, tourism may not conflict with the conservation of historic buildings.=
 
 - 收拾好行李 =collect one's belongings= 关于家庭关系的事情 =matters pertaining to family relationship= 文化遗产属于全人类 =Cultural heritage belongs to all human beings.=
@@ -51,8 +51,8 @@
 - 自暴自弃 =abandon oneself to despair= # 不能放弃民族特性 =People should never abandon their national identity.=
 - 吸取精华 =absorb the quintessence= 专心研读 =be absorbed in study= 保护文化遗产,去糟取精 =The best way to protect our cultural heritage is to absorb the essence and discard the dregs.=
 
-* Ethics
-- 夫妻间感性和合理性需求与维持婚姻本身相比是次要的 =The emotional and intellectual needs of spouses are secondary to the survival of the marriage itself.=
+* Ethics   :MY1
+- 夫妻间感性和理性需求与维持婚姻本身相比是次要的 =The emotional and intellectual needs of spouses are secondary to the survival of the marriage itself.=
 
 - 计划生育无可厚非 =China's family planning policy is above/beyond reproach.= 科学家谴责克隆人因为有悖伦理道德 =Many scientists condemn cloning human beings for it is morally and ethically wrong.=
 - 正反意见抵消 =The pros and cons cancel out.=
@@ -65,7 +65,7 @@
 
 * Education
 - 遵从环保规定 =comply with environmental regulations= 遵守社会规范 =conform to social norms= 从入学第一天起学生就要遵守校规 =On the first day a pupil enters school, he is asked to conform to the school rules.=
-- 没有公司能与中国为敌 =No company can afford to antagonize China.= 合作融洽 =cooperate in harmony= 寄宿学校学生学会合作和互让,为以后成功培养人际交往能力 =In a boarding school, students learn to cooperate and compromise, and develop interpersonal skills needed for future successes.= #
+- 没有公司更够承担中国为敌的后果 =No company can afford to antagonize China.= 合作融洽 =cooperate in harmony= 寄宿学校学生学会合作和互让,为以后成功培养人际交往能力 =In a boarding school, students learn to cooperate and compromise, and develop interpersonal skills needed for future successes.= #
 - 取长补短 =learn from other's strong points and overcome our weakness= 求同存异 =to seek common ground while reserving differences= 盲目/机械地照做 =copy things blindly/mechanically= # 扼杀天才 =kill one's talent= 其实正相反,压力扼杀创造力 =Quite the opposite/On the contrary, I think pressure stifles creativity.=
 - 消除误解 =correct misapprehension= 改正过错 =correct one's fault= 改变印象 =correct impression=
 - 养育孩子 =bring up children= 提出一个课题 =bring up a subject= 培养责任感 =cultivate a strong sense of responsibility= 出国留学开阔视野充实思想培养自立 =Overseas study broadens one's vision, enriches one's mind and cultivates independence.=
@@ -104,7 +104,7 @@
 
 * Rights
 
-* Work & Life
+* Work & Life :MY2
 - 业余爱好 =leisure time pursuits influence your thought-habit=
 
 - 这篇文章除了长之外没什么不好 =The article is long, but not otherwise blameworthy.= 警告或批评 =to admonish or censure= # 有争议的政策引来国际批评 =The controversial policy have attracted international censure.= 谴责侵略,请求宽容 =denounce the invasion and plead for tolerance= # 把火灾归咎为短路 =They blamed an electric short circuit for the fire yesterday.=
