@@ -1,11 +1,11 @@
-code {
+b {
     font-size: 0px;
     /*word-break: break-all;*/
 }
-code:after {
+b:after {
     content: '\00AB';
     font-size: large;
 }
-code:hover {
+b:hover {
     font-size: medium;
 }
