@@ -1,23 +1,58 @@
 #+AUTHOR: Gu Feng
 #+TITLE: IELTS SPEAKING
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/code-hide.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
 #+HTML: <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 #+OPTIONS: toc:2
 
 * PART I
 ** Work
-*** What work do you do? *I am a computer software engineer.*
+*** What work do you do?
+    - work for Intel as a software engineer
 *** Why did you choose to do that kind of job?
+    - majored in this, promising industry and popular, still is today
+    - challenging / get sense of achievement all the time
 *** What do you do in that job?
+    develop software or applications by writing source code
+    test and debug if not working as expected
+    may sounds interesting to some people
+    sometimes can be really difficult and time-consuming
 *** What is you typical working day like?
+    start with riding my moped to the company
+    have breakfast at the dining hall
+    when I get to work, the first thing is checking email and update my progress
+    start coding or discuss with other team members about designs
+    other routines
+    get off work around six p.m. if no need to work overtime
 *** Do you use any equipment in you work?
+    computers of course
+    some other hardware needed for the project
 *** Do you like your job?
+    passionate about my job on so many different levels
+    super challenging
+    make me feel quite fulfilled and accomplished
+    fast developing industry, new technologies come out everyday, learning new things
+    good salary and benefits and paid vacation
+    promising career path because my boss think highly of my work
 *** Would you recommend that job to other people?
+    only to those who like challenges
+    able to work under pressure with schedules and deadlines
+    must be eager to learn
 *** What work do young people in your country prefer to do?
+    met quite a few young people
+    thinking about starting their own businesses, open a shop or a small company related to their major
+    confident and independent
+    may not succeed, courage deserves praise
 *** Do you think that you are overloaded with work?
+    yes in the beginning years of my career
+    now I'm experienced, find it not that difficult
+    or I just get used to it
 *** What's the most difficult part of it?
+    in first several years, feel stressed, pushed by schedule and deadline
+    now it's more of interpersonal relationships
+    need to communicate and cooperate with others when dealing with more complex systems
 *** Do you plan to continue doing this type of work?
+    striving to become a software architect
+    do more design work in the future
 ** Hometown
 *** What's your hometown?
 *** What part of China is that in?
